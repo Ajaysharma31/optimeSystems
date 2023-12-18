@@ -76,7 +76,7 @@
         font-size: 19px;
     }
 
-    .dreamit-service-box {
+    .jaytech-service-box {
         padding: 0px 10px 30px;
     }
 
@@ -99,19 +99,19 @@
     }
 
     /*start about area*/
-    .about-area .dreamit-about-thumb img {
+    .about-area .jaytech-about-thumb img {
         width: 96%;
     }
 
-    .style-three.about-area .dreamit-about-thumb img {
+    .style-three.about-area .jaytech-about-thumb img {
         width: 100%;
     }
 
-    .style-three.about-area .dreamit-about-thumb {
+    .style-three.about-area .jaytech-about-thumb {
         margin: 0;
     }
 
-    .about-area .dreamit-about-thumb {
+    .about-area .jaytech-about-thumb {
         margin: 0;
     }
 
@@ -150,7 +150,7 @@
         width: 70%;
     }
 
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-left: 0;
     }
 
@@ -181,19 +181,19 @@
         font-size: 20px;
     }
 
-    .dreamit-smart-title h4 {
+    .jaytech-smart-title h4 {
         font-size: 17px;
     }
 
-    .dreamit-smart-title p {
+    .jaytech-smart-title p {
         font-size: 15px;
     }
 
-    .dreamits-top-title h3:before {
+    .jaytechs-top-title h3:before {
         width: 298px;
     }
 
-    .dreamits-top-title h3:after {
+    .jaytechs-top-title h3:after {
         width: 298px;
     }
 
@@ -427,7 +427,7 @@
         z-index: -1;
     }
 
-    .dreamit-about-thumb1 img {
+    .jaytech-about-thumb1 img {
         width: 100%;
     }
 
@@ -603,7 +603,7 @@
         font-size: 20px;
     }
 
-    .dreamit-service-box {
+    .jaytech-service-box {
         margin-bottom: 60px;
     }
 
@@ -653,7 +653,7 @@
     }
 
     /*about area*/
-    .about-area .dreamit-about-thumb {
+    .about-area .jaytech-about-thumb {
         margin: 0 0 40px;
     }
 
@@ -675,11 +675,11 @@
         font-size: 18px;
     }
 
-    .dreamit-icon-list ul li span {
+    .jaytech-icon-list ul li span {
         font-size: 15px;
     }
 
-    .dreamit-icon-list ul li i {
+    .jaytech-icon-list ul li i {
         margin-right: 5px;
     }
 
@@ -730,7 +730,7 @@
         font-size: 28px;
     }
 
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-left: 0;
     }
 
@@ -821,11 +821,11 @@
         font-size: 14px;
     }
 
-    .dreamits-top-title h3:before {
+    .jaytechs-top-title h3:before {
         width: 180px;
     }
 
-    .dreamits-top-title h3:after {
+    .jaytechs-top-title h3:after {
         width: 180px;
     }
 
@@ -915,7 +915,7 @@
         font-size: 15px;
     }
 
-    .dreamits-top-title h3 {
+    .jaytechs-top-title h3 {
         padding: 0 0 30px;
     }
 
@@ -1237,11 +1237,11 @@
         padding: 80px 0 80px;
     }
 
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-top: 0px;
     }
 
-    .style-three.about-area .dreamit-about-thumb {
+    .style-three.about-area .jaytech-about-thumb {
         margin: 0;
         margin-bottom: 30px;
     }
@@ -1272,7 +1272,7 @@
         font-size: 16px;
     }
 
-    .dreamit-icon-list ul li {
+    .jaytech-icon-list ul li {
         display: block;
     }
 
@@ -1492,7 +1492,7 @@
         display: none;
     }
 
-    .dreamit-service-box {
+    .jaytech-service-box {
         margin-bottom: 60px;
     }
 
@@ -1530,7 +1530,7 @@
     }
 
     /*about area*/
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-left: -35px;
         margin-top: -20px;
     }
@@ -1559,7 +1559,7 @@
         font-size: 14px;
     }
 
-    .dreamits-top-title h3:before {
+    .jaytechs-top-title h3:before {
         left: -30px;
         width: 105px;
     }
@@ -1573,7 +1573,7 @@
         top: -25px;
     }
 
-    .dreamits-top-title h3:after {
+    .jaytechs-top-title h3:after {
         right: -30px;
         width: 105px;
     }
@@ -1587,7 +1587,7 @@
         width: 75%;
     }
 
-    .style-three.about-area .dreamit-about-thumb {
+    .style-three.about-area .jaytech-about-thumb {
         margin: 0px 0 35px -20px;
     }
 
@@ -1596,7 +1596,7 @@
         text-align: left;
     }
 
-    .about-area .dreamit-about-thumb {
+    .about-area .jaytech-about-thumb {
         margin: 0px 0 40px;
     }
 
@@ -1604,7 +1604,7 @@
         bottom: -40px;
     }
 
-    .dreamit-about-thumb img {
+    .jaytech-about-thumb img {
         width: 100%;
     }
 
@@ -2377,7 +2377,7 @@
         padding: 60px 0 0;
     }
 
-    .dreamit-service-box {
+    .jaytech-service-box {
         margin-bottom: 60px;
     }
 
@@ -2408,7 +2408,7 @@
         text-align: left;
     }
 
-    .style-three.about-area .dreamit-icon-box {
+    .style-three.about-area .jaytech-icon-box {
         text-align: left;
     }
 
@@ -2420,7 +2420,7 @@
         text-align: center;
     }
 
-    .dreamit-icon-box {
+    .jaytech-icon-box {
         text-align: center;
     }
 
@@ -2451,12 +2451,12 @@
         width: 55%;
     }
 
-    .about-area .dreamit-about-thumb {
+    .about-area .jaytech-about-thumb {
         margin: 0;
         margin-bottom: 50px;
     }
 
-    .dreamit-about-thumb img {
+    .jaytech-about-thumb img {
         width: 88%;
     }
 
@@ -2520,12 +2520,12 @@
     }
 
     /*about area*/
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-left: 0;
         margin-top: 16px;
     }
 
-    .dreamit-about-thumb1 img {
+    .jaytech-about-thumb1 img {
         width: 100%;
     }
 
@@ -2536,24 +2536,24 @@
         width: 40%;
     }
 
-    .dreamit-smart-title h4 {
+    .jaytech-smart-title h4 {
         font-size: 16px;
     }
 
-    .dreamit-smart-title p {
+    .jaytech-smart-title p {
         font-size: 15px;
     }
 
-    .dreamits-top-title h3 {
+    .jaytechs-top-title h3 {
         font-size: 16px;
     }
 
-    .dreamits-top-title h3:before {
+    .jaytechs-top-title h3:before {
         left: -8px;
         width: 75px;
     }
 
-    .dreamits-top-title h3:after {
+    .jaytechs-top-title h3:after {
         right: -8px;
         width: 75px;
     }
@@ -2668,7 +2668,7 @@
         display: none;
     }
 
-    .dreamits-top-title h3 {
+    .jaytechs-top-title h3 {
         padding: 0 0 20px;
     }
 
@@ -2862,7 +2862,7 @@
         left: 152px;
     }
 
-    .dreamit-icon-list ul li span {
+    .jaytech-icon-list ul li span {
         font-size: 15px;
     }
 
@@ -2895,7 +2895,7 @@
         padding: 34px 0 15px;
     }
 
-    .upper1.style-three.about-area .dreamit-about-thumb {
+    .upper1.style-three.about-area .jaytech-about-thumb {
         margin: 43px 0 0 0px;
     }
 
@@ -3045,7 +3045,7 @@
         font-size: 30px;
     }
 
-    .dreamit-icon-title h4 {
+    .jaytech-icon-title h4 {
         font-size: 16px;
     }
 
@@ -3053,15 +3053,15 @@
         text-align: center !important;
     }
 
-    .dreamits-top-title h3 {
+    .jaytechs-top-title h3 {
         font-size: 14px;
     }
 
-    .style-three.about-area .dreamit-about-thumb {
+    .style-three.about-area .jaytech-about-thumb {
         margin: 0;
     }
 
-    .style-three.about-area .dreamit-about-thumb img {
+    .style-three.about-area .jaytech-about-thumb img {
         width: 100%;
     }
 
@@ -3189,7 +3189,7 @@
         position: relative !important;
     }
 
-    .style-three.about-area .dreamit-about-thumb {
+    .style-three.about-area .jaytech-about-thumb {
         margin: 0;
     }
 
@@ -3465,7 +3465,7 @@
         padding: 0 0 70px !important;
     }
 
-    .dreamit-service-box {
+    .jaytech-service-box {
         margin-bottom: 60px;
     }
 
@@ -3486,11 +3486,11 @@
         font-size: 20px;
     }
 
-    .dreamit-icon-title h4 {
+    .jaytech-icon-title h4 {
         font-size: 18px;
     }
 
-    .dreamit-icon-list ul li span {
+    .jaytech-icon-list ul li span {
         font-size: 14px;
     }
 
@@ -3532,11 +3532,11 @@
         width: 60%;
     }
 
-    .dreamit-about-thumb img {
+    .jaytech-about-thumb img {
         width: 100%;
     }
 
-    .about-area .dreamit-about-thumb {
+    .about-area .jaytech-about-thumb {
         margin: 0px 0 35px 0px;
     }
 
@@ -3565,11 +3565,11 @@
         font-size: 13px;
     }
 
-    .dreamit-about-thumb1 img {
+    .jaytech-about-thumb1 img {
         width: 100%;
     }
 
-    .dreamit-about-thumb1 {
+    .jaytech-about-thumb1 {
         margin-left: 0;
         margin-top: 25px;
     }
@@ -3636,7 +3636,7 @@
         text-align: center;
     }
 
-    .dreamit-ceo-title h4:before {
+    .jaytech-ceo-title h4:before {
         display: none;
     }
 
@@ -3699,7 +3699,7 @@
         width: 30%;
     }
 
-    .dreamit-smart-title h4 {
+    .jaytech-smart-title h4 {
         font-size: 18px;
     }
 
@@ -3711,20 +3711,20 @@
         font-size: 20px;
     }
 
-    .dreamit-smart-title p {
+    .jaytech-smart-title p {
         font-size: 14px;
     }
 
-    .dreamits-top-title h3 {
+    .jaytechs-top-title h3 {
         font-size: 16px;
         padding: 0 0 10px;
     }
 
-    .dreamits-top-title h3:before {
+    .jaytechs-top-title h3:before {
         position: inherit;
     }
 
-    .dreamits-top-title h3:after {
+    .jaytechs-top-title h3:after {
         position: inherit;
     }
 
@@ -4277,7 +4277,7 @@
     }
 
 
-    .dreamit-ceo-title h4 {
+    .jaytech-ceo-title h4 {
         padding: 0;
     }
 
@@ -4301,12 +4301,12 @@
         padding: 0 7px;
     }
 
-    .feature-area.style-two .dreamit-icon-list ul li i {
+    .feature-area.style-two .jaytech-icon-list ul li i {
         line-height: 22px;
         float: left;
     }
 
-    .faq-sectiions .dreamit-icon-list ul li i {
+    .faq-sectiions .jaytech-icon-list ul li i {
         float: left;
     }
 
@@ -4314,11 +4314,11 @@
         margin-bottom: 30px;
     }
 
-    .style-three .dreamit-icon-list ul li i {
+    .style-three .jaytech-icon-list ul li i {
         float: left;
     }
 
-    .upper1.style-three.about-area .dreamit-about-thumb {
+    .upper1.style-three.about-area .jaytech-about-thumb {
         margin: 0;
     }
 

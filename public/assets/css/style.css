@@ -1,6 +1,6 @@
 /*===============================================
 Template Name: Optime - Consulting & Finance HTML5 Template
-Author:  https://themeforest.net/user/dreamit-solution
+Author:  https://themeforest.net/user/jaytech-solution
 Description: Description
 Version: 1.0.0
 Text Domain: Optime
@@ -1023,7 +1023,7 @@ ul.sub-menu li:hover a span {
 }
 
 /*service box*/
-.dreamit-service-box {
+.jaytech-service-box {
   padding: 0px 25px 30px;
   background-color: #fff;
   border: 1px solid rgba(35, 35, 35, 0.1);
@@ -1033,7 +1033,7 @@ ul.sub-menu li:hover a span {
   margin-bottom: 30px;
 }
 
-.dreamit-service-box::before {
+.jaytech-service-box::before {
   position: absolute;
   content: "";
   right: 0;
@@ -1203,37 +1203,37 @@ ul.sub-menu li:hover a span {
 }
 
 /*all hover*/
-.dreamit-service-box:hover .em-service-title h2,
-.dreamit-service-box:hover .em-service-text p {
+.jaytech-service-box:hover .em-service-title h2,
+.jaytech-service-box:hover .em-service-text p {
   color: #fff;
 }
 
-.dreamit-service-box:hover .em-service-text p {
+.jaytech-service-box:hover .em-service-text p {
   color: #fff;
 }
 
-.dreamit-service-box:hover .em-service-icon img {
+.jaytech-service-box:hover .em-service-icon img {
   filter: brightness(0) invert(1);
 }
 
-.dreamit-service-box:hover .em-service-icon {
+.jaytech-service-box:hover .em-service-icon {
   background: #ff3c00;
 }
 
-.dreamit-service-box:hover .service-button a:before {
+.jaytech-service-box:hover .service-button a:before {
   transform: scale(1);
 }
 
-.dreamit-service-box:hover .service-button a {
+.jaytech-service-box:hover .service-button a {
   color: #fff;
   border: 1px solid #fff;
 }
 
-.dreamit-service-box:hover .service-button a i {
+.jaytech-service-box:hover .service-button a i {
   color: #fff;
 }
 
-.dreamit-service-box:hover:before {
+.jaytech-service-box:hover:before {
   width: 100%;
   height: 100%;
   opacity: 1;
@@ -1269,7 +1269,7 @@ ul.sub-menu li:hover a span {
   background-color: rgba(19, 19, 35, 0.9);
 }
 
-.style-three .dreamit-service-box {
+.style-three .jaytech-service-box {
   padding: 36px 15px 30px;
   background-color: #fff;
   border: 0;
@@ -1280,7 +1280,7 @@ ul.sub-menu li:hover a span {
   margin-bottom: 30px;
 }
 
-.style-three .dreamit-service-box::before {
+.style-three .jaytech-service-box::before {
   background: url(../images/resource/box-bg3.png);
   border-radius: 3px;
   background-repeat: no-repeat;
@@ -1352,27 +1352,27 @@ ul.sub-menu li:hover a span {
 }
 
 /*service all hover*/
-.style-three .dreamit-service-box:hover .em-service-icon1 img {
+.style-three .jaytech-service-box:hover .em-service-icon1 img {
   filter: brightness(0) invert(1);
 }
 
-.style-three .dreamit-service-box:hover .service-bar {
+.style-three .jaytech-service-box:hover .service-bar {
   background: #fff;
 }
 
-.style-three .dreamit-service-box:hover .em-service-icon1:after {
+.style-three .jaytech-service-box:hover .em-service-icon1:after {
   background: #ff784e;
 }
 
-.style-three .dreamit-service-box:hover .service-bar:before {
+.style-three .jaytech-service-box:hover .service-bar:before {
   background: #ff3c00;
 }
 
-.style-three .dreamit-service-box:hover .em-service-title h3 {
+.style-three .jaytech-service-box:hover .em-service-title h3 {
   color: #fff;
 }
 
-.style-three .dreamit-service-box:hover .service-button a {
+.style-three .jaytech-service-box:hover .service-button a {
   color: #fff;
   border: 0;
 }
@@ -1830,13 +1830,13 @@ button.icons {
   position: relative;
 }
 
-.about-area .dreamit-about-thumb {
+.about-area .jaytech-about-thumb {
   margin: 0px 0 0 -128px;
   position: relative;
   z-index: 1;
 }
 
-.dreamit-icon-title h4 {
+.jaytech-icon-title h4 {
   font-size: 22px;
   font-weight: 500;
   color: #fff;
@@ -1844,17 +1844,17 @@ button.icons {
   font-style: italic;
 }
 
-.dreamit-icon-title h4 span {
+.jaytech-icon-title h4 span {
   color: #ff3c00;
 }
 
-.dreamit-icon-list ul li {
+.jaytech-icon-list ul li {
   display: inline-block;
   list-style: none;
   padding: 14px 0 0px;
 }
 
-.dreamit-icon-list ul li i {
+.jaytech-icon-list ul li i {
   width: 20px;
   height: 20px;
   line-height: 20px;
@@ -1867,11 +1867,11 @@ button.icons {
   margin-right: 10px;
 }
 
-.dreamit-icon-list ul li span {
+.jaytech-icon-list ul li span {
   color: #fff;
 }
 
-.feature-area.style-two .dreamit-icon-list ul li i {
+.feature-area.style-two .jaytech-icon-list ul li i {
   line-height: 22px;
 }
 /* Feature Area New Style */
@@ -2014,8 +2014,8 @@ p.about-text2 {
   padding: 0;
 }
 
-/*dreamit ceo box*/
-.dreamit-ceo-title h4 {
+/*jaytech ceo box*/
+.jaytech-ceo-title h4 {
   font-size: 20px;
   font-weight: 500;
   font-family: "Fira Sans";
@@ -2024,7 +2024,7 @@ p.about-text2 {
   z-index: 1;
 }
 
-.dreamit-ceo-title h4:before {
+.jaytech-ceo-title h4:before {
   position: absolute;
   content: "";
   z-index: 1;
@@ -2034,7 +2034,7 @@ p.about-text2 {
   border: 1px solid #ff3c00;
 }
 
-.dreamit-ceo-title span {
+.jaytech-ceo-title span {
   font-size: 15px;
   padding: 7px 0 0;
   display: inline-block;
@@ -2046,7 +2046,7 @@ p.about-text2 {
 }
 
 /*about thumb*/
-.dreamit-about-thumb1 {
+.jaytech-about-thumb1 {
   margin-left: 64px;
 }
 
@@ -2079,20 +2079,20 @@ p.about-text1 {
 }
 
 /*about thumb*/
-.style-three.about-area .dreamit-about-thumb {
+.style-three.about-area .jaytech-about-thumb {
   margin: 0px 0 0 -72px;
 }
 
-.style-three .dreamit-icon-list ul li {
+.style-three .jaytech-icon-list ul li {
   padding: 12px 0 0px;
 }
 
-.style-three .dreamit-icon-list ul li span {
+.style-three .jaytech-icon-list ul li span {
   color: #232323;
   font-family: "Fira Sans";
 }
 
-.style-three .dreamit-icon-list ul li i {
+.style-three .jaytech-icon-list ul li i {
   width: inherit;
   height: inherit;
   line-height: inherit;
@@ -2262,7 +2262,7 @@ p.about-text1 {
   background: url(../images/resource/why-choose-bg.png);
 }
 
-.upper1.style-three.about-area .dreamit-about-thumb {
+.upper1.style-three.about-area .jaytech-about-thumb {
   margin: 0px 0 0 30px;
 }
 
@@ -2587,7 +2587,7 @@ p.choose-text1 {
   margin-bottom: 9px;
 }
 
-.why-choose-us-area .dreamit-icon-list ul li i {
+.why-choose-us-area .jaytech-icon-list ul li i {
   width: inherit;
   height: inherit;
   line-height: inherit;
@@ -2601,7 +2601,7 @@ p.choose-text1 {
   top: 4px;
 }
 
-.why-choose-us-area .dreamit-icon-list ul li span {
+.why-choose-us-area .jaytech-icon-list ul li span {
   color: #232323;
   font-weight: 400;
   font-family: "Fira Sans";
@@ -3354,13 +3354,13 @@ p.choose-text1 {
 }
 
 /*process right*/
-.dreamit-smart-title h4 {
+.jaytech-smart-title h4 {
   font-size: 22px;
   font-weight: 500;
   padding: 4px 0 14px;
 }
 
-.dreamit-smart-title span {
+.jaytech-smart-title span {
   color: #ff3c00;
 }
 
@@ -3810,7 +3810,7 @@ a.active {
   background-color: rgba(15, 15, 30, 0.8);
 }
 
-.faq-sectiions .dreamit-icon-list ul li i {
+.faq-sectiions .jaytech-icon-list ul li i {
   width: inherit;
   height: inherit;
   line-height: inherit;
@@ -4114,7 +4114,7 @@ a.active {
 ======================================================
 <-- Optime Brand Area Css -->
 ======================================================***/
-.dreamits-top-title h3 {
+.jaytechs-top-title h3 {
   font-size: 18px;
   font-weight: 500;
   text-align: center;
@@ -4123,7 +4123,7 @@ a.active {
   padding: 0 0 44px;
 }
 
-.dreamits-top-title h3:before {
+.jaytechs-top-title h3:before {
   position: absolute;
   content: "";
   left: -15px;
@@ -4133,7 +4133,7 @@ a.active {
   background-color: rgba(35, 35, 35, 0.10196078431372549);
 }
 
-.dreamits-top-title h3:after {
+.jaytechs-top-title h3:after {
   position: absolute;
   content: "";
   right: -15px;
@@ -6098,7 +6098,7 @@ span.fill {
   padding: 95px 0 100px;
 }
 
-.style-two .dreamit-icon-list ul li span {
+.style-two .jaytech-icon-list ul li span {
   color: #686868;
 }
 
@@ -6174,13 +6174,13 @@ ul.tabs-inner-list li i {
   font-size: 15px;
 }
 
-.feture-area .dreamit-icon-list ul li span {
+.feture-area .jaytech-icon-list ul li span {
   color: #232323;
   font-weight: 400;
   font-family: "Fira Sans";
 }
 
-.feture-area .dreamit-icon-list ul li i {
+.feture-area .jaytech-icon-list ul li i {
   width: inherit;
   height: inherit;
   line-height: inherit;

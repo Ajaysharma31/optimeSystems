@@ -74,7 +74,7 @@ const About = () => {
                   functional.{" "}
                 </p>
               </div>
-              <div className="dreamit-icon-list">
+              <div className="jaytech-icon-list">
                 <ul>
                   <li>
                     <i className="bi bi-arrow-right-circle" />{" "}
@@ -657,7 +657,7 @@ const About = () => {
                   functional.{" "}
                 </p>
               </div>
-              <div className="dreamit-icon-list">
+              <div className="jaytech-icon-list">
                 <ul>
                   <li>
                     <i className="bi bi-arrow-right-circle" />{" "}

@@ -145,7 +145,7 @@ const BlogDetails = () => {
                     <h3>Leave Comment</h3>
                     <span />
                   </div>
-                  <form onSubmit={(e) => e.preventDefault()} id="dreamit-form">
+                  <form onSubmit={(e) => e.preventDefault()} id="jaytech-form">
                     <div className="row">
                       <div className="col-md-6">
                         <input

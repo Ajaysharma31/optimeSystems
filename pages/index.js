@@ -110,7 +110,7 @@ const Index = () => {
           </div>
           <div className="row">
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon">
                     <img src="assets/images/resource/service-icon.png" alt />
@@ -140,7 +140,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon">
                     <img src="assets/images/resource/service-icon2.png" alt />
@@ -170,7 +170,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon">
                     <img src="assets/images/resource/service-icon3.png" alt />
@@ -200,7 +200,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon">
                     <img src="assets/images/resource/service-icon.png" alt />
@@ -242,7 +242,7 @@ const Index = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
-              <div className="dreamit-about-thumb">
+              <div className="jaytech-about-thumb">
                 <img src="assets/images/about/about.png" alt />
                 {/* about-shape */}
                 <div className="about-shape-thumb1 bounce-animate2">
@@ -266,13 +266,13 @@ const Index = () => {
               <div className="lines style-two pb-15">
                 <div className="line" />
               </div>
-              <div className="dreamit-icon-title">
+              <div className="jaytech-icon-title">
                 <h4>
                   {" "}
                   We are Since <span>2007 to Present</span> in Sandigo, USA{" "}
                 </h4>
               </div>
-              <div className="dreamit-icon-list">
+              <div className="jaytech-icon-list">
                 <ul>
                   <li>
                     <i className="flaticon-tick" />{" "}
@@ -389,7 +389,7 @@ const Index = () => {
                   ideas markets.{" "}
                 </p>
               </div>
-              <div className="dreamit-ceo-title">
+              <div className="jaytech-ceo-title">
                 <h4> Philip Antrophy </h4>
                 <span>SEO &amp; Founder</span>
               </div>
@@ -403,7 +403,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-12">
-              <div className="dreamit-about-thumb1">
+              <div className="jaytech-about-thumb1">
                 <img src="assets/images/about/about2.png" alt />
               </div>
               <div className="about-shape-box">
@@ -774,7 +774,7 @@ const Index = () => {
                     <img src="assets/images/resource/process-shape.png" alt />
                   </div>
                   <div className="process-thumb1">
-                    <img src="assets/images/resource/dreamit-shape.png" alt />
+                    <img src="assets/images/resource/jaytech-shape.png" alt />
                   </div>
                 </div>
               </div>
@@ -790,7 +790,7 @@ const Index = () => {
               <div className="lines style-three pt-30 pb-10">
                 <div className="line" />
               </div>
-              <div className="dreamit-smart-title">
+              <div className="jaytech-smart-title">
                 <h4>
                   {" "}
                   For Choose <span>Optime</span> Before know who we are?{" "}
@@ -816,7 +816,7 @@ const Index = () => {
           </div>
           <div className="row pt-50">
             <div className="col-lg-12">
-              <div className="dreamits-top-title">
+              <div className="jaytechs-top-title">
                 <h3> More Then 5K+ Brands with work US</h3>
               </div>
             </div>
@@ -904,7 +904,7 @@ const Index = () => {
                 <div className="lines style-three upper pt-30 pb-10">
                   <div className="line" />
                 </div>
-                <div className="dreamit-smart-title">
+                <div className="jaytech-smart-title">
                   <p className="slill-text">
                     Continually generate 2.0 communities and client-focused
                     products. In synergize strategic manufactured products

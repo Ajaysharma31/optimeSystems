@@ -29,8 +29,8 @@ const Team = () => {
                   functional.{" "}
                 </p>
               </div>
-              <div className="dreamit-icon-box">
-                <div className="dreamit-icon-list">
+              <div className="jaytech-icon-box">
+                <div className="jaytech-icon-list">
                   <ul>
                     <li>
                       <i className="bi bi-arrow-right-circle" />{" "}
@@ -72,7 +72,7 @@ const Team = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-12">
-              <div className="dreamit-about-thumb">
+              <div className="jaytech-about-thumb">
                 <img src="assets/images/about/about-2.png" alt />
                 {/* about-shape */}
                 <div className="about-shape-thumb1 bounce-animate2">

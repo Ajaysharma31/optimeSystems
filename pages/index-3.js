@@ -300,7 +300,7 @@ const Index3 = () => {
                     more <span>Experiences</span>
                   </h2>
                 </div>
-                <div className="dreamit-smart-title pt-2">
+                <div className="jaytech-smart-title pt-2">
                   <p className="slill-text">
                     Continually generate 2.0 communities and client-focused
                     products. In synergize strategic manufactured products
@@ -758,7 +758,7 @@ const Index3 = () => {
                   onSubmit={(e) => e.preventDefault()}
                   action="https://formspree.io/f/myyleorq"
                   method="POST"
-                  id="dreamit-form"
+                  id="jaytech-form"
                 >
                   <div className="subscribe_form">
                     <input

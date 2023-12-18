@@ -162,7 +162,7 @@ const DefaultFooter = () => {
                 <div className="footer-bottom-content-copy">
                   <p>
                     © 2023 <span>Optime</span> all rights reserved. Design By
-                    Dream-IT.
+                    Jay-Tech.
                   </p>
                 </div>
               </div>
