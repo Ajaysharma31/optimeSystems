@@ -21,14 +21,6 @@ const OptimeHead = () => {
         type="text/css"
         media="all"
       />
-      {/* carousel CSS */}
-      {/* <link
-        rel="stylesheet"
-        href="assets/css/owl.carousel.min.css"
-        type="text/css"
-        media="all"
-      /> */}
-      {/* animate CSS */}
       <link
         rel="stylesheet"
         href="assets/css/animate.css"

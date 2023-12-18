@@ -39,37 +39,17 @@ const MobileMenu = () => {
               style={{ display: toggle ? "block" : "none" }}
             >
               <li>
-                <a href="#">Home </a>
-                <ul className="sub-menu" style={activeLi("Home")}>
-                  <li>
-                    <Link legacyBehavior href="/">
-                      IT Consulting
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="index-2">
-                      Finance Consulting
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="/index-3">
-                      <a>IT Solution</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="/landing-1">
-                      <a>Landing Page</a>
-                    </Link>
-                  </li>
-                </ul>
-                <a
+                <Link href="/">
+                  Home
+                </Link>
+                {/* <a
                   className="mean-expand"
                   href="#"
                   onClick={() => activeMenuSet("Home")}
                   style={{ fontSize: 18 }}
                 >
                   {activeBtn("Home")}
-                </a>
+                </a> */}
               </li>
               <li>
                 <a href="#">Company </a>
@@ -85,31 +65,6 @@ const MobileMenu = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link legacyBehavior href="pricing">
-                      Pricing
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="team">
-                      Our Team
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="portfolio">
-                      Portfolio
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="portfolio-details">
-                      Portfolio Details
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="404">
-                      404
-                    </Link>
-                  </li>
-                  <li>
                     <Link legacyBehavior href="contact">
                       Contact Us
                     </Link>
@@ -122,67 +77,6 @@ const MobileMenu = () => {
                   style={{ fontSize: 18 }}
                 >
                   {activeBtn("Company")}
-                </a>
-              </li>
-              <li>
-                <a href="#">Services </a>
-                <ul className="sub-menu" style={activeLi("Services")}>
-                  <li>
-                    <Link legacyBehavior href="service">
-                      Our Service
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="service-details">
-                      Service Details
-                    </Link>
-                  </li>
-                </ul>
-                <a
-                  className="mean-expand"
-                  href="#"
-                  onClick={() => activeMenuSet("Services")}
-                  style={{ fontSize: 18 }}
-                >
-                  {activeBtn("Services")}
-                </a>
-              </li>
-              <li>
-                <Link legacyBehavior href="portfolio">
-                  Portfolio
-                </Link>
-              </li>
-              <li>
-                <a href="#">Blog </a>
-                <ul className="sub-menu" style={activeLi("Portfolio")}>
-                  <li>
-                    <Link legacyBehavior href="blog-grid">
-                      Blog Gird
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="blog-list">
-                      Blog List
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="blog-2column">
-                      Blog-2Column
-                    </Link>
-                  </li>
-                  <li>
-                    <Link legacyBehavior href="blog-details">
-                      Blog Details
-                    </Link>
-                  </li>
-                </ul>
-                <a
-                  className="mean-expand"
-                  href="#"
-                  onClick={() => activeMenuSet("Portfolio")}
-                  style={{ fontSize: 18 }}
-                >
-                  {activeBtn("Portfolio")}
                 </a>
               </li>
               <li className="mean-last">

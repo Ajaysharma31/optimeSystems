@@ -114,7 +114,7 @@ const DefaultFooter = () => {
                     </form>
                   </div>
                   <div className="recent-post-item">
-                    <div className="recent-post-thumb1">
+                    {/* <div className="recent-post-thumb1">
                       <a href="#">
                         <img
                           src="assets/images/resource/google-play.png"
@@ -129,7 +129,7 @@ const DefaultFooter = () => {
                           alt=""
                         />
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -152,7 +152,8 @@ const DefaultFooter = () => {
               <div className="Optime-logo">
                 <Link legacyBehavior href="/">
                   <a className="logo_thumb" title="Optime">
-                    <img src="assets/images/logo.png" alt="logo" />
+                    {/* <img src="assets/images/logo.png" alt="logo" /> */}
+                    <h7 className="color-white">Optime Systems</h7>
                   </a>
                 </Link>
               </div>
