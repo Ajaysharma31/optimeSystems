@@ -5,15 +5,15 @@ const Testimonial = () => {
     <Layout>
       <Breadcumb pageName={"Testimonial"} />
       {/*==================================================*/}
-      {/* Start consen Testimonial Area */}
+      {/* Start Optime Testimonial Area */}
       {/*==================================================*/}
       <div className="testimonial-area style-two">
         <div className="container">
           <div className="row testi-rotate align-items-center">
             <div className="col-lg-12">
-              <div className="consen-section-title pb-50 text-center upper">
+              <div className="Optime-section-title pb-50 text-center upper">
                 <h5> Testimonials </h5>
-                <h2> Consen Trusted Customers </h2>
+                <h2> Optime Trusted Customers </h2>
                 <h2>
                   {" "}
                   Awesome <span> Reviews </span>
@@ -200,10 +200,10 @@ const Testimonial = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Testimonial Area */}
+      {/* End Optime Testimonial Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Subscribe Area */}
+      {/* Start Optime Subscribe Area */}
       {/*==================================================*/}
       <div className="subscribe-area style-two mt-5 mt-sm-0">
         <div className="container">

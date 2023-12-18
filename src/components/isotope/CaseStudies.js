@@ -39,7 +39,7 @@ const CaseStudies = () => {
     <Fragment>
       <div className="row case-study-bg">
         <div className="col-lg-12">
-          <div className="consen-section-title upper text-center pb-50">
+          <div className="Optime-section-title upper text-center pb-50">
             <h5> Case Studies </h5>
             <h2> We Server the Best Works </h2>
             <h2>

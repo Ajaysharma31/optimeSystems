@@ -1,53 +1,56 @@
 /*===============================================
-Template Name: Consen - Consulting & Finance HTML5 Template
+Template Name: Optime - Consulting & Finance HTML5 Template
 Author:  https://themeforest.net/user/dreamit-solution
 Description: Description
 Version: 1.0.0
-Text Domain: Consen
+Text Domain: Optime
 Tags: consulting, finance, corporate, business, consultant, multipurpose, technology, it-solution, software, agency, company, portfolio, bangking, insurance, digital-agency, digital-marketing.
 ================================================*/
 
 /*TABLE OF CONTENTS*/
 /*=====================
-01. Consen Header Top Menu Area Css
-02. Consen Nav Menu Area Css 
-03. Consen Slider Area Css
-04. Consen Section Title Css
-05. Consen Service Area css
-06. Consen About Area Css
-07. Consen Counter Area Css
-08. Consen Case Study Area Css
-09. Consen Testimonial Area Css
-10. Consen Process Area Css
-11. Consen Team Area Css
-12. Consen Faq Area Css
-13. Consen Brand Section Css
-14. Consen Call Do Section Css
-15. Consen Form Box Css
-16. Consen Skill Area Css
-17. Consen Blog Area Css
-18. Consen footer Area Css
-19. Consen Subscribe Area Css
-20. Consen Lines CSS
-21. Consen Prossess Ber Css
-22. Consen Scrollup Section
-23. Consen Bounce Animation Css 
-24. Consen Animation Dance
-25. Consen Breadcumb Area Css
-26. Consen abouts_areas Css
-27. Consen Feture-Area Css
-28. Consen Pricing Section Css
-29. Consen Web Development Section CSS
-30. Consen Contact  US Css
-31. Consen Blog Sidber Widget CSS
-32. Consen Case Study Details Css
-33. Consen Search Box Css
-34. Consen Loader Css
+01. Optime Header Top Menu Area Css
+02. Optime Nav Menu Area Css 
+03. Optime Slider Area Css
+04. Optime Section Title Css
+05. Optime Service Area css
+06. Optime About Area Css
+07. Optime Counter Area Css
+08. Optime Case Study Area Css
+09. Optime Testimonial Area Css
+10. Optime Process Area Css
+11. Optime Team Area Css
+12. Optime Faq Area Css
+13. Optime Brand Section Css
+14. Optime Call Do Section Css
+15. Optime Form Box Css
+16. Optime Skill Area Css
+17. Optime Blog Area Css
+18. Optime footer Area Css
+19. Optime Subscribe Area Css
+20. Optime Lines CSS
+21. Optime Prossess Ber Css
+22. Optime Scrollup Section
+23. Optime Bounce Animation Css 
+24. Optime Animation Dance
+25. Optime Breadcumb Area Css
+26. Optime abouts_areas Css
+27. Optime Feture-Area Css
+28. Optime Pricing Section Css
+29. Optime Web Development Section CSS
+30. Optime Contact  US Css
+31. Optime Blog Sidber Widget CSS
+32. Optime Case Study Details Css
+33. Optime Search Box Css
+34. Optime Loader Css
 =======================*/
 
 /*================================
- <-- Consen Header Top Menu Area Css-->
+ <-- Optime Header Top Menu Area Css-->
 ==================================*/
+.bg-white{
+  background-color: white;
+}
 .font-35{
   font-size: 35px !important;
 }
@@ -172,9 +175,9 @@ li.menu-icon a {
 }
 
 /*================================
-<--  Consen Nav Menu Area Css -->
+<--  Optime Nav Menu Area Css -->
 ==================================*/
-.consen_nav_manu {
+.Optime_nav_manu {
   background: transparent;
   transition: 0.5s;
   z-index: 2;
@@ -183,7 +186,7 @@ li.menu-icon a {
   margin-bottom: -88px;
 }
 
-.consen_nav_manu.transparent_menu {
+.Optime_nav_manu.transparent_menu {
   background: transparent;
   margin-bottom: -87px;
   position: relative;
@@ -202,23 +205,23 @@ li.menu-icon a {
   z-index: 9;
 }
 
-/* consen Menu Css*/
-nav.consen_menu {
+/* Optime Menu Css*/
+nav.Optime_menu {
   text-align: right;
 }
 
-.consen_menu ul {
+.Optime_menu ul {
   list-style: none;
   display: inline-block;
 }
 
-.consen_menu > ul > li {
+.Optime_menu > ul > li {
   display: inline-block;
   position: relative;
   z-index: 1;
 }
 
-.consen_menu > ul > li > a {
+.Optime_menu > ul > li > a {
   display: block;
   margin: 30px 10px;
   -webkit-transition: 0.5s;
@@ -228,14 +231,14 @@ nav.consen_menu {
   font-weight: 400;
 }
 
-nav.consen_menu span {
+nav.Optime_menu span {
   font-size: 13px;
   padding-left: 6px;
   font-family: FontAwesome;
   opacity: 0.5;
 }
 
-.consen_menu > ul > li > a:hover {
+.Optime_menu > ul > li > a:hover {
   color: #ff3c00;
 }
 
@@ -276,8 +279,8 @@ nav.consen_menu span {
   transform: scale(1);
 }
 
-/*consen nav menu style two*/
-.style-two.consen_nav_manu {
+/*Optime nav menu style two*/
+.style-two.Optime_nav_manu {
   background: transparent;
   transition: 0.5s;
   z-index: 2;
@@ -299,11 +302,11 @@ nav.consen_menu span {
   z-index: 1;
 }
 
-.style-two nav.consen_menu {
+.style-two nav.Optime_menu {
   text-align: left;
 }
 
-.style-two .consen_menu > ul > li > a {
+.style-two .Optime_menu > ul > li > a {
   color: #232323;
 }
 
@@ -311,19 +314,19 @@ nav.consen_menu span {
   padding-left: 25px;
 }
 
-.style-two .consen_menu > ul > li > a:hover {
+.style-two .Optime_menu > ul > li > a:hover {
   color: #ff3c00;
 }
 
 /* Style Three */
-.consen_nav_manu.style-three {
+.Optime_nav_manu.style-three {
   margin-bottom: 0;
 }
-.consen_nav_manu.style-three.sticky {
+.Optime_nav_manu.style-three.sticky {
   background: #fff !important;
 }
 /*** Sub Menu Style ***/
-.consen_menu ul .sub-menu {
+.Optime_menu ul .sub-menu {
   position: absolute;
   left: 0;
   top: 130%;
@@ -340,17 +343,17 @@ nav.consen_menu span {
   opacity: 0;
 }
 
-.consen_menu ul li:hover > .sub-menu {
+.Optime_menu ul li:hover > .sub-menu {
   visibility: visible;
   top: 100%;
   opacity: 1;
 }
 
-.consen_menu ul .sub-menu li {
+.Optime_menu ul .sub-menu li {
   position: relative;
 }
 
-.consen_menu ul .sub-menu li a {
+.Optime_menu ul .sub-menu li a {
   display: block;
   padding: 12px 20px;
   margin: 0;
@@ -366,34 +369,34 @@ nav.consen_menu span {
   color: #211e3b !important;
 }
 
-.consen_menu ul .sub-menu li:hover > a,
-.consen_menu ul .sub-menu .sub-menu li:hover > a,
-.consen_menu ul .sub-menu .sub-menu .sub-menu li:hover > a,
-.consen_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
+.Optime_menu ul .sub-menu li:hover > a,
+.Optime_menu ul .sub-menu .sub-menu li:hover > a,
+.Optime_menu ul .sub-menu .sub-menu .sub-menu li:hover > a,
+.Optime_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
   background: #ff3c00;
   color: #fff !important;
 }
 
 /* sub menu 2 */
-.consen_menu ul .sub-menu .sub-menu {
+.Optime_menu ul .sub-menu .sub-menu {
   left: 100%;
   top: 130%;
   opacity: 0;
   visibility: hidden;
 }
 
-.consen_menu ul .sub-menu li:hover > .sub-menu {
+.Optime_menu ul .sub-menu li:hover > .sub-menu {
   opacity: 1;
   visibility: visible;
   top: 0%;
 }
 
 /* sub menu 3 */
-.consen_menu ul .sub-menu .sub-menu li {
+.Optime_menu ul .sub-menu .sub-menu li {
   position: relative;
 }
 
-.consen_menu ul .sub-menu .sub-menu .sub-menu {
+.Optime_menu ul .sub-menu .sub-menu .sub-menu {
   right: 100%;
   left: auto;
   top: 130%;
@@ -401,7 +404,7 @@ nav.consen_menu span {
   visibility: hidden;
 }
 
-.consen_menu ul .sub-menu .sub-menu li:hover > .sub-menu {
+.Optime_menu ul .sub-menu .sub-menu li:hover > .sub-menu {
   opacity: 1;
   visibility: visible;
   top: 0%;
@@ -423,21 +426,21 @@ ul.sub-menu li:hover a span {
 }
 
 /* sub menu 4 */
-.consen_menu ul .sub-menu .sub-menu .sub-menu li {
+.Optime_menu ul .sub-menu .sub-menu .sub-menu li {
   position: relative;
 }
 
-.consen_menu ul .sub-menu .sub-menu .sub-menu li:hover > .sub-menu {
+.Optime_menu ul .sub-menu .sub-menu .sub-menu li:hover > .sub-menu {
   opacity: 1;
   visibility: visible;
   top: 0%;
 }
 
-.consen_menu li a:hover:before {
+.Optime_menu li a:hover:before {
   width: 101%;
 }
 
-.consen_nav_manu.sticky .logo_img {
+.Optime_nav_manu.sticky .logo_img {
   display: none;
 }
 
@@ -445,21 +448,21 @@ ul.sub-menu li:hover a span {
   display: none;
 }
 
-.consen_nav_manu.sticky .main_sticky {
+.Optime_nav_manu.sticky .main_sticky {
   display: inherit;
 }
 
-.sticky .consen_menu li a {
+.sticky .Optime_menu li a {
   color: #fff;
 }
 
-.consen_nav_manu.sticky a.dtbtn {
+.Optime_nav_manu.sticky a.dtbtn {
   color: #fff;
   background: #f16722;
   border: 2px solid #f16722;
 }
 
-.consen_nav_manu.sticky a.dtbtn:hover {
+.Optime_nav_manu.sticky a.dtbtn:hover {
   color: #43baff;
 }
 
@@ -468,24 +471,24 @@ ul.sub-menu li:hover a span {
 }
 
 /*Sub menu style three*/
-.consen_nav_manu.style-three .consen_menu > ul > li > a {
+.Optime_nav_manu.style-three .Optime_menu > ul > li > a {
   color: #232323;
   font-weight: 500;
 }
-.consen_nav_manu.style-three .header-button a {
+.Optime_nav_manu.style-three .header-button a {
   border-radius: 0;
   border: 1px solid #ff3c00;
 }
-.consen_nav_manu.style-three .header-button a:before {
+.Optime_nav_manu.style-three .header-button a:before {
   border-radius: 0;
 }
-.consen_nav_manu.style-three .header-button a:hover {
+.Optime_nav_manu.style-three .header-button a:hover {
   border: 1px solid #10102e;
 }
 
 /*
 <!-- ============================================================== -->
-<!-- Start Consen Slider Area Css -->
+<!-- Start Optime Slider Area Css -->
 <!-- ============================================================== -->*/
 .slider-area {
   background: url(../images/slider/hero-bg.png);
@@ -842,7 +845,7 @@ ul.sub-menu li:hover a span {
 
 /**
 ======================================================
-<--  Consen Section Title Css -->
+<--  Optime Section Title Css -->
 ======================================================**/
 
 .banner-area {
@@ -941,24 +944,24 @@ ul.sub-menu li:hover a span {
 
 /**
 ======================================================
-<--  Consen Section Title Css -->
+<--  Optime Section Title Css -->
 ======================================================**/
-.consen-section-title h2 {
+.Optime-section-title h2 {
   font-size: 36px;
   margin: 0;
 }
 
-.consen-section-title span {
+.Optime-section-title span {
   color: #ff3c00;
 }
 
-.consen-section-title p {
+.Optime-section-title p {
   opacity: 70%;
   padding: 13px 0 0;
 }
 
 /*style two*/
-.consen-section-title h5 {
+.Optime-section-title h5 {
   font-size: 18px;
   text-transform: capitalize;
   font-weight: 500;
@@ -969,7 +972,7 @@ ul.sub-menu li:hover a span {
   display: inline-block;
 }
 
-.consen-section-title h5:before {
+.Optime-section-title h5:before {
   position: absolute;
   content: "";
   top: 10px;
@@ -980,12 +983,12 @@ ul.sub-menu li:hover a span {
 }
 
 /*center before after*/
-.upper.consen-section-title h5 {
+.upper.Optime-section-title h5 {
   left: 0px;
   margin-left: 0;
 }
 
-.upper.consen-section-title h5::before {
+.upper.Optime-section-title h5::before {
   position: absolute;
   content: "";
   top: 10px;
@@ -996,7 +999,7 @@ ul.sub-menu li:hover a span {
   background: #ff3c00;
 }
 
-.upper.consen-section-title h5:after {
+.upper.Optime-section-title h5:after {
   position: absolute;
   content: "";
   top: 10px;
@@ -1009,7 +1012,7 @@ ul.sub-menu li:hover a span {
 
 /**
 ======================================================
-<--  Consen Service Area css -->
+<--  Optime Service Area css -->
 ======================================================**/
 .service-area {
   background: url(../images/resource/feature-bg.jpg);
@@ -1101,7 +1104,7 @@ ul.sub-menu li:hover a span {
   transition: 0.5s;
 }
 
-/*consen box button*/
+/*Optime box button*/
 
 .service-button a {
   padding: 8px 18px 8px 24px;
@@ -1141,8 +1144,8 @@ ul.sub-menu li:hover a span {
   transition: 0.5s;
 }
 
-/*consen button*/
-.consen-button a {
+/*Optime button*/
+.Optime-button a {
   padding: 10px 14px 15px 42px;
   font-family: "Fira Sans";
   font-weight: 500;
@@ -1156,7 +1159,7 @@ ul.sub-menu li:hover a span {
   overflow: hidden;
 }
 
-.consen-button a:before {
+.Optime-button a:before {
   position: absolute;
   content: "";
   z-index: -1;
@@ -1169,7 +1172,7 @@ ul.sub-menu li:hover a span {
   transition: 0.5s;
 }
 
-.consen-button a i {
+.Optime-button a i {
   font-size: 20px;
   width: 30px;
   height: 30px;
@@ -1185,16 +1188,16 @@ ul.sub-menu li:hover a span {
   transition: 0.5s;
 }
 
-.consen-button a:hover {
+.Optime-button a:hover {
   color: #ff3b00;
 }
 
-.consen-button a:hover:before {
+.Optime-button a:hover:before {
   width: 100%;
   left: 0;
 }
 
-.consen-button a:hover i {
+.Optime-button a:hover i {
   background: #ff3b00;
   color: #fff;
 }
@@ -1498,13 +1501,13 @@ ul.sub-menu li:hover a span {
 
 /**
 ======================================================
-<--  Consen Service Details Area Css -->
+<--  Optime Service Details Area Css -->
 ======================================================**/
 .service-detials-area {
   padding: 100px 0 70px;
 }
 
-.service-detials-area .consen-service-thumb img {
+.service-detials-area .Optime-service-thumb img {
   width: 100%;
 }
 
@@ -1816,7 +1819,7 @@ button.icons {
 
 /**
 ======================================================
-<--  Consen About Area Css -->
+<--  Optime About Area Css -->
 ======================================================**/
 .about-area {
   background: url(../images/about/about-bg.png);
@@ -2343,7 +2346,7 @@ p.about-text1 {
 
 /***
 ======================================================
-<--  Consen Counter Area Css -->
+<--  Optime Counter Area Css -->
 ======================================================***/
 .counter-vip {
   padding: 85px 0 0;
@@ -2400,7 +2403,7 @@ p.about-text1 {
 
 /***
 ======================================================
-<--  Consen Case Study Area Css -->
+<--  Optime Case Study Area Css -->
 ======================================================***/
 .case-study-area {
   background: url(../images/resource/service-bg.png);
@@ -2974,7 +2977,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Testimonial Area Css -->
+<--  Optime Testimonial Area Css -->
 ======================================================***/
 .testimonial-area {
   background: url(../images/resource/testimonial-bg.png);
@@ -3230,7 +3233,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Process Area Css -->
+<--  Optime Process Area Css -->
 ======================================================***/
 .process-area {
   background: url(../images/resource/work-process-bg.png);
@@ -3505,7 +3508,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Team Area Css -->
+<--  Optime Team Area Css -->
 ======================================================***/
 .team_area {
   background: url(../images/resource/why-choose-bg.png);
@@ -3649,7 +3652,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<-- Consen Faq Area Css -->
+<-- Optime Faq Area Css -->
 ======================================================***/
 .faq-area {
   background: url(../images/resource/faq-bg.jpg);
@@ -3857,7 +3860,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Brand Section Css -->
+<-- Optime Brand Section Css -->
 ==================================================***/
 
 .brand-section {
@@ -3892,7 +3895,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Call Do Section Css -->
+<-- Optime Call Do Section Css -->
 ==================================================***/
 .call-do-action-section {
   background: linear-gradient(rgba(17, 26, 58, 0.75), rgba(17, 26, 58, 0.75)),
@@ -3983,7 +3986,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Form Box Css -->
+<-- Optime Form Box Css -->
 ==================================================***/
 .contract-form-bg {
   padding: 15px 35px 40px;
@@ -4109,7 +4112,7 @@ a.active {
 
 /***
 ======================================================
-<-- Consen Brand Area Css -->
+<-- Optime Brand Area Css -->
 ======================================================***/
 .dreamits-top-title h3 {
   font-size: 18px;
@@ -4142,7 +4145,7 @@ a.active {
 
 /***
 ======================================================
-<--  Consen Skill Area Css -->
+<--  Optime Skill Area Css -->
 ======================================================***/
 .skill-area {
   background: url(../images/resource/skill-bg.png);
@@ -4220,7 +4223,7 @@ p.slill-text {
 
 /***
 ======================================================
-<--  Consen Blog Area Css -->
+<--  Optime Blog Area Css -->
 ======================================================***/
 .blog-area {
   background: url(../images/resource/blog-bg.png);
@@ -4403,11 +4406,11 @@ p.slill-text {
 }
 
 /*blog button*/
-.blog-area.style-two .consen-button a {
+.blog-area.style-two .Optime-button a {
   padding: 15px 33px;
 }
 
-.blog-area.style-two .consen-button a i {
+.blog-area.style-two .Optime-button a i {
   font-size: 20px;
   width: 0;
   height: 0;
@@ -4423,7 +4426,7 @@ p.slill-text {
 }
 
 /*blog all hover*/
-.blog-area.style-two .consen-button a:hover i {
+.blog-area.style-two .Optime-button a:hover i {
   color: #ff3c00;
 }
 
@@ -4501,7 +4504,7 @@ p.slill-text {
 
 /***
 ======================================================
-<--  Consen footer Area Css -->
+<--  Optime footer Area Css -->
 ======================================================***/
 .footer-middle {
   background: url(../images/resource/footer-bg.png);
@@ -4852,7 +4855,7 @@ a.logo_thumb img {
 
 /***
 ======================================================
-<--  Consen Subscribe Area Css -->
+<--  Optime Subscribe Area Css -->
 ======================================================***/
 .subscribe-area {
   background: url(../images/resource/subscribe-bg.png);
@@ -4997,7 +5000,7 @@ a.logo_thumb img {
 
 /***
 ======================================================
-<--  Consen Lines CSS -->
+<--  Optime Lines CSS -->
 ======================================================***/
 .lines .line {
   position: relative;
@@ -5196,7 +5199,7 @@ a.logo_thumb img {
 }
 
 /**====================================================
-<-- Consen Prossess Ber Css -->
+<-- Optime Prossess Ber Css -->
 ======================================================**/
 .prossess-ber-plugin span {
   color: #fff;
@@ -5250,7 +5253,7 @@ span.fill {
 
 /*
 <!-- ============================================================== -->
-<!-- Consen Scrollup Section -->
+<!-- Optime Scrollup Section -->
 <!-- ============================================================== -->*/
 .scroll-area {
   position: relative;
@@ -5430,7 +5433,7 @@ span.fill {
 
 /*
 <!-- ============================================================== -->
-<!-- Consen Bounce Animation Css -->
+<!-- Optime Bounce Animation Css -->
 <!-- ============================================================== -->*/
 /* bounce-animate */
 .bounce-animate {
@@ -5703,7 +5706,7 @@ span.fill {
 }
 
 /*--==============================================->
-  <!-- Consen Animation Dance -->
+  <!-- Optime Animation Dance -->
  ==================================================-*/
 /**/
 .dance3 {
@@ -5774,7 +5777,7 @@ span.fill {
 }
 
 /*--==============================================->
-<!-- Consen Breadcumb Area Css -->
+<!-- Optime Breadcumb Area Css -->
 ==================================================-*/
 .breadcumb-area {
   background: linear-gradient(rgba(19, 19, 35, 0.6), rgba(0, 0, 0, 0.5)),
@@ -5836,7 +5839,7 @@ span.fill {
 }
 
 /*====================================================
---< Consen abouts_areas Css -->
+--< Optime abouts_areas Css -->
 ======================================================*/
 .abouts_areas {
   padding: 100px 0 130px;
@@ -5893,7 +5896,7 @@ span.fill {
 }
 
 /*====================================================
-<-- Consen Feture-Area Css -->
+<-- Optime Feture-Area Css -->
 ======================================================*/
 
 .feature-area {
@@ -5993,7 +5996,7 @@ span.fill {
 }
 
 /*feature back title*/
-.consen-feature-back {
+.Optime-feature-back {
   position: absolute;
   top: 0;
   left: 0;
@@ -6058,7 +6061,7 @@ span.fill {
   opacity: 0;
 }
 
-.single-feature-box:hover .consen-feature-back {
+.single-feature-box:hover .Optime-feature-back {
   transform: perspective(500px) rotateX(0deg);
 }
 
@@ -6258,7 +6261,7 @@ ul.tabs-inner-list li i {
 }
 
 /*========================================
-<-- Consen Pricing Section Css -->
+<-- Optime Pricing Section Css -->
 ==========================================*/
 .pricing-section {
   padding: 95px 0 70px;
@@ -6361,7 +6364,7 @@ ul.tabs-inner-list li i {
 }
 
 /*=============================================
-<-- Consen Web Development Section CSS
+<-- Optime Web Development Section CSS
 ===============================================*/
 .web-dev-section {
   background: url(../images/resource/why-choose-bg.png);
@@ -6432,7 +6435,7 @@ ul.tabs-inner-list li i {
 }
 
 /*===================================
-<-- Consen Contact  US Css -->
+<-- Optime Contact  US Css -->
 =====================================*/
 .contact-us {
   background: url(../images/resource/why-choose-bg.png);
@@ -6529,7 +6532,7 @@ ul.tabs-inner-list li i {
 }
 
 /*=================================================
-<-- Consen Blog Sidber Widget CSS -->
+<-- Optime Blog Sidber Widget CSS -->
 ==================================================*/
 
 .blog-section {
@@ -6946,7 +6949,7 @@ label {
 }
 
 /*======================================
-<-- Consen Case Study Details Css -->
+<-- Optime Case Study Details Css -->
 ========================================*/
 .case-study-details {
   background: url(../images/resource/why-choose-bg.png);
@@ -7082,7 +7085,7 @@ label {
 }
 
 /*=====================================
-<-- Consen Error Area Css -->
+<-- Optime Error Area Css -->
 =======================================*/
 .error-area {
   padding: 100px 0 100px;
@@ -7195,7 +7198,7 @@ label {
 }
 
 /*=====================================
-<-- Consen Search Box Css -->
+<-- Optime Search Box Css -->
 =======================================*/
 /*nav button*/
 .search-box-btn.search-box-outer {
@@ -7428,7 +7431,7 @@ ul.social-box li a:hover {
 }
 
 /*===========================
-<-- Consen Loader Css -->
+<-- Optime Loader Css -->
 =============================*/
 .loader-wrapper {
   position: fixed;
