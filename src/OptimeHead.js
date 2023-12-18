@@ -1,5 +1,5 @@
 import Head from "next/head";
-const ConsenHead = () => {
+const OptimeHead = () => {
   return (
     <Head>
       <meta charSet="UTF-8" />
@@ -115,4 +115,4 @@ const ConsenHead = () => {
     </Head>
   );
 };
-export default ConsenHead;
+export default OptimeHead;

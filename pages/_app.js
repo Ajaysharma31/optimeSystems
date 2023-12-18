@@ -1,4 +1,4 @@
-import ConsenHead from "@/src/ConsenHead";
+import OptimeHead from "@/src/OptimeHead";
 import Preloader from "@/src/layout/Preloader";
 import "@/styles/globals.css";
 import { Fragment, useState } from "react";
@@ -10,7 +10,7 @@ const App = ({ Component, pageProps }) => {
 
   return (
     <Fragment>
-      <ConsenHead />
+      <OptimeHead />
       <Preloader />
       {!loding && <Component {...pageProps} />}
     </Fragment>

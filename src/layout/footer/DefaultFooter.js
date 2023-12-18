@@ -149,9 +149,9 @@ const DefaultFooter = () => {
         <div className="container">
           <div className="row d-flex align-items-center">
             <div className="col-md-4">
-              <div className="consen-logo">
+              <div className="Optime-logo">
                 <Link legacyBehavior href="/">
-                  <a className="logo_thumb" title="consen">
+                  <a className="logo_thumb" title="Optime">
                     <img src="assets/images/logo.png" alt="logo" />
                   </a>
                 </Link>
@@ -161,7 +161,7 @@ const DefaultFooter = () => {
               <div className="footer-bottom-content">
                 <div className="footer-bottom-content-copy">
                   <p>
-                    © 2023 <span>Consen</span> all rights reserved. Design By
+                    © 2023 <span>Optime</span> all rights reserved. Design By
                     Dream-IT.
                   </p>
                 </div>

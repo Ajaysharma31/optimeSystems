@@ -80,10 +80,10 @@ const Index3 = () => {
         </SwiperSlide>
       </Swiper>
       {/*==================================================*/}
-      {/*End consen slider Area  */}
+      {/*End Optime slider Area  */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen feature Area */}
+      {/* Start Optime feature Area */}
       {/*==================================================*/}
       <div className="feature-area new-style">
         <div className="container">
@@ -125,10 +125,10 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen feature Area */}
+      {/* End Optime feature Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       <div className="about-area new-style">
         <div className="container">
@@ -139,7 +139,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-lg-6">
-              <div className="consen-section-title">
+              <div className="Optime-section-title">
                 <h5> ABOUT OUR COMPANY</h5>
                 <h2> We Execuite Our Ideas From</h2>
                 <h2>
@@ -198,16 +198,16 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* End Consen Service Area */}
+      {/* End Optime Service Area */}
       {/*==================================================*/}
       <div className="service-area new-style">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
-              <div className="consen-section-title upper text-center mb-40">
+              <div className="Optime-section-title upper text-center mb-40">
                 <h5> OUR SERVICES</h5>
                 <h2> Amazing IT Solutions we Provide</h2>
                 <h2>
@@ -282,17 +282,17 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End Consen Service Area */}
+      {/* End Optime Service Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Skills Area Css */}
+      {/* Start Optime Skills Area Css */}
       {/*==================================================*/}
       <div className="skill-area style-two">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6">
               <div className="extra-animation-div">
-                <div className="consen-section-title white">
+                <div className="Optime-section-title white">
                   <h5>POPULAR SKILLS</h5>
                   <h2> We Are Professionals And </h2>
                   <h2>
@@ -330,16 +330,16 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Skill Area Css */}
+      {/* End Optime Skill Area Css */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Call Do Action Area Css */}
+      {/* Start Optime Call Do Action Area Css */}
       {/*==================================================*/}
       <div className="call-do-action-area">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
-              <div className="consen-section-title white upper text-center mb-40">
+              <div className="Optime-section-title white upper text-center mb-40">
                 <h5> CONACT US</h5>
                 <h2> High Quality Services And Products</h2>
                 <h2>
@@ -357,10 +357,10 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Call Do Action Area Css */}
+      {/* End Optime Call Do Action Area Css */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen case study Area */}
+      {/* Start Optime case study Area */}
       {/*==================================================*/}
       <div className="portfolio-area">
         <div className="container-fluid">
@@ -368,16 +368,16 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen case study Area */}
+      {/* End Optime case study Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Testimonial Area */}
+      {/* Start Optime Testimonial Area */}
       {/*==================================================*/}
       <div className="testimonial-area new-style">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <div className="consen-section-title pb-40">
+              <div className="Optime-section-title pb-40">
                 <h5>TESTIMONIALS</h5>
                 <h2> What Say Customers </h2>
                 <h2>
@@ -429,10 +429,10 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Testimonial Area */}
+      {/* End Optime Testimonial Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Faq Area */}
+      {/* Start Optime Faq Area */}
       {/*==================================================*/}
       <div className="faq-area new-style">
         <div className="container">
@@ -441,7 +441,7 @@ const Index3 = () => {
             <div className="col-lg-6">
               {/* Start Accordion */}
               <div className="tab_container">
-                <div className="consen-section-title white pb-40 mb-1">
+                <div className="Optime-section-title white pb-40 mb-1">
                   <h5> FREEQUENTLY ASKED QUESTION </h5>
                   <h2>
                     {" "}
@@ -456,7 +456,7 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* END consen Faq Area */}
+      {/* END Optime Faq Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/*Start  Brand Section */}
@@ -526,13 +526,13 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* Start consen Blog Area */}
+      {/* Start Optime Blog Area */}
       {/*==================================================*/}
       <div className="blog-area new-style">
         <div className="container">
           <div className="row align-items-center mb-40">
             <div className="col-lg-12">
-              <div className="consen-section-title upper text-center">
+              <div className="Optime-section-title upper text-center">
                 <h5>NEWS &amp; BLOGS</h5>
                 <h2> Latest Blogs Post </h2>
               </div>
@@ -553,7 +553,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 25, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -585,7 +585,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 18, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -617,7 +617,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 14, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -647,7 +647,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 25, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -679,7 +679,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 14, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -709,7 +709,7 @@ const Index3 = () => {
                   </div>
                   <div className="em-blog-content">
                     <div className="meta-blog-text">
-                      <a href="#">Consen</a>
+                      <a href="#">Optime</a>
                       <span>August 18, 2023</span>
                     </div>
                     <div className="em-blog-title">
@@ -736,10 +736,10 @@ const Index3 = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Blog Area */}
+      {/* End Optime Blog Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Subscribe Area */}
+      {/* Start Optime Subscribe Area */}
       {/*==================================================*/}
       <div className="subscribes-area new-style">
         <div className="container">

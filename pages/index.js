@@ -8,14 +8,14 @@ const Index = () => {
   return (
     <Layout footer={1}>
       {/*==================================================*/}
-      {/* Start consen slider Area */}
+      {/* Start Optime slider Area */}
       {/*==================================================*/}
       <div className="slider-area d-flex align-items-center">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-7 col-md-6">
               <div className="slider-content">
-                <h3> Work With Consen </h3>
+                <h3> Work With Optime </h3>
                 <h1> Innovate Solution For </h1>
                 <h1>
                   {" "}
@@ -80,16 +80,16 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/*End consen slider Area  */}
+      {/*End Optime slider Area  */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen feature Area */}
+      {/* Start Optime feature Area */}
       {/*==================================================*/}
       <div className="service-area">
         <div className="container">
           <div className="row align-items-center mb-90">
             <div className="col-lg-7 col-md-8 pl-0">
-              <div className="consen-section-title mobile-center">
+              <div className="Optime-section-title mobile-center">
                 <h2> We Run All Kinds Of Services</h2>
                 <h2>
                   {" "}
@@ -98,7 +98,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-5 col-md-4">
-              <div className="consen-button text-right">
+              <div className="Optime-button text-right">
                 <Link legacyBehavior href="/service">
                   <a>
                     {" "}
@@ -233,10 +233,10 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen feature Area */}
+      {/* End Optime feature Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       <div className="about-area">
         <div className="container">
@@ -251,7 +251,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-12 ">
-              <div className="consen-section-title white pb-10">
+              <div className="Optime-section-title white pb-10">
                 <h2> The Fatest Way To Achieve</h2>
                 <h2>
                   {" "}
@@ -308,7 +308,7 @@ const Index = () => {
           <div className="row counter-vip">
             <div className="col-lg-12">
               <div className="couter-top-title">
-                <h3> Consen Finished this Achivement in 7 Years </h3>
+                <h3> Optime Finished this Achivement in 7 Years </h3>
               </div>
             </div>
             <div className="col-md-3 col-6">
@@ -358,20 +358,20 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       <div className="ceo-cod-area">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12 ">
-              <div className="consen-section-title">
+              <div className="Optime-section-title">
                 <h2> What Say Our CEO, About</h2>
                 <h2>
                   {" "}
-                  Consen <span> Customers </span>
+                  Optime <span> Customers </span>
                 </h2>
                 <div className="lines style-three pt-20 pb-10">
                   <div className="line" />
@@ -416,16 +416,16 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen case study Area */}
+      {/* Start Optime case study Area */}
       {/*==================================================*/}
       <div className="case-study-area">
         <div className="container">
           <div className="row case-study-bg align-items-center mb-40">
             <div className="col-lg-6 col-md-8">
-              <div className="consen-section-title mobile-center white ">
+              <div className="Optime-section-title mobile-center white ">
                 <h2> We Serve the Best Works</h2>
                 <h2>
                   {" "}
@@ -434,7 +434,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-4">
-              <div className="consen-button text-right">
+              <div className="Optime-button text-right">
                 <Link legacyBehavior href="/portfolio">
                   <a>
                     {" "}
@@ -704,10 +704,10 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen case study Area */}
+      {/* End Optime case study Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen process Area */}
+      {/* Start Optime process Area */}
       {/*==================================================*/}
       <div className="process-area">
         <div className="container">
@@ -780,7 +780,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-12 pl-lg-50">
-              <div className="consen-section-title mt-4 mt-lg-0">
+              <div className="Optime-section-title mt-4 mt-lg-0">
                 <h2> The Fatest Way To Achieve </h2>
                 <h2>
                   {" "}
@@ -793,7 +793,7 @@ const Index = () => {
               <div className="dreamit-smart-title">
                 <h4>
                   {" "}
-                  For Choose <span>Consen</span> Before know who we are?{" "}
+                  For Choose <span>Optime</span> Before know who we are?{" "}
                 </h4>
                 <p>
                   Monotonectally brand worldwide value before in seamless
@@ -817,7 +817,7 @@ const Index = () => {
           <div className="row pt-50">
             <div className="col-lg-12">
               <div className="dreamits-top-title">
-                <h3> More Then 5K+ Brands with work Consen</h3>
+                <h3> More Then 5K+ Brands with work US</h3>
               </div>
             </div>
           </div>
@@ -884,17 +884,17 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen process Area */}
+      {/* End Optime process Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Skills Area Css */}
+      {/* Start Optime Skills Area Css */}
       {/*==================================================*/}
       <div className="skill-area">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6">
               <div className="extra-animation-div">
-                <div className="consen-section-title white">
+                <div className="Optime-section-title white">
                   <h2> Join the Community to learn </h2>
                   <h2>
                     {" "}
@@ -938,16 +938,16 @@ const Index = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Skill Area Css */}
+      {/* End Optime Skill Area Css */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* Start consen Blog Area */}
+      {/* Start Optime Blog Area */}
       {/*==================================================*/}
       <div className="blog-area blog-new">
         <div className="container">
           <div className="row align-items-center mb-40">
             <div className="col-lg-7 col-md-8">
-              <div className="consen-section-title mobile-center">
+              <div className="Optime-section-title mobile-center">
                 <h2> We’re here to share story </h2>
                 <h2>
                   {" "}
@@ -956,7 +956,7 @@ const Index = () => {
               </div>
             </div>
             <div className="col-lg-5 col-md-4">
-              <div className="consen-button text-right">
+              <div className="Optime-button text-right">
                 <Link legacyBehavior href="/blog-grid">
                   <a>
                     {" "}

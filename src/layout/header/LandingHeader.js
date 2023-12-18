@@ -10,7 +10,7 @@ const LandingHeader = () => {
             <div className="col-lg-8 col-sm-8">
               <div className="header_top_menu_address">
                 <div className="header_top_menu_text">
-                  <p>Welcome! to Consen Finance Consultant.</p>
+                  <p>Welcome! to Optime Finance Consultant.</p>
                 </div>
               </div>
             </div>
@@ -49,30 +49,30 @@ const LandingHeader = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Header Top Menu Area Css */}
+      {/* End Optime Header Top Menu Area Css */}
       {/*===================================================*/}
       {/*==================================================*/}
-      {/* Start consen Main Menu Area */}
+      {/* Start Optime Main Menu Area */}
       {/*==================================================*/}
-      <div id="sticky-header" className="consen_nav_manu style-two header____">
+      <div id="sticky-header" className="Optime_nav_manu style-two header____">
         <div className="container">
           <div className="row header-bg align-items-center">
             <div className="col-lg-3">
               <div className="logo">
                 <Link legacyBehavior href="/">
-                  <a className="logo_img" title="consen">
+                  <a className="logo_img" title="Optime">
                     <img src="assets/images/logo2.png" alt="logo" />
                   </a>
                 </Link>
                 <Link legacyBehavior href="/">
-                  <a className="main_sticky" title="consen">
+                  <a className="main_sticky" title="Optime">
                     <img src="assets/images/logo2.png" alt="logo" />
                   </a>
                 </Link>
               </div>
             </div>
             <div className="col-lg-9 pl-0 pr-0 d-flex align-items-center justify-content-around">
-              <nav className="consen_menu">
+              <nav className="Optime_menu">
                 <ul className="nav_scroll">
                   <li>
                     <a href="#home">Home</a>

@@ -9,13 +9,13 @@ const Service = () => {
       <Breadcumb pageName={"Our Service"} />
 
       {/*==================================================*/}
-      {/* Start consen service Area */}
+      {/* Start Optime service Area */}
       {/*==================================================*/}
       <div className="service-area">
         <div className="container">
           <div className="row align-items-center mb-90">
             <div className="col-lg-7 col-md-8 pl-0">
-              <div className="consen-section-title mobile-center">
+              <div className="Optime-section-title mobile-center">
                 <h2> We Run All Kinds Of Services</h2>
                 <h2>
                   {" "}
@@ -24,7 +24,7 @@ const Service = () => {
               </div>
             </div>
             <div className="col-lg-5 col-md-4">
-              <div className="consen-button text-right">
+              <div className="Optime-button text-right">
                 <Link legacyBehavior href="/service">
                   <a>
                     {" "}
@@ -159,10 +159,10 @@ const Service = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen service Area */}
+      {/* End Optime service Area */}
       {/*==================================================*/}
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       <div className="about-area style-three upper sr-page">
         <div className="container">
@@ -180,8 +180,8 @@ const Service = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-12">
-              <div className="consen-section-title">
-                <h5> About Consen </h5>
+              <div className="Optime-section-title">
+                <h5> About Optime </h5>
                 <h2> We Are Global Stakeholder </h2>
                 <h2>
                   {" "}
@@ -240,7 +240,7 @@ const Service = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen about Area */}
+      {/* End Optime about Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/* Start call do action Section */}
@@ -281,15 +281,15 @@ const Service = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* Start consen Testimonial Area */}
+      {/* Start Optime Testimonial Area */}
       {/*==================================================*/}
       <div className="testimonial-area style-two">
         <div className="container">
           <div className="row testi-rotate align-items-center">
             <div className="col-lg-12">
-              <div className="consen-section-title pb-50 text-center upper">
+              <div className="Optime-section-title pb-50 text-center upper">
                 <h5> Testimonials </h5>
-                <h2> Consen Trusted Customers </h2>
+                <h2> Optime Trusted Customers </h2>
                 <h2>
                   {" "}
                   Awesome <span> Reviews </span>
@@ -392,7 +392,7 @@ const Service = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Testimonial Area */}
+      {/* End Optime Testimonial Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/* Start Brand Section */}

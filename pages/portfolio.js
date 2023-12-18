@@ -12,7 +12,7 @@ const Portfolio = () => {
     <Layout>
       <Breadcumb pageName={"Portfolio"} />
       {/*==================================================*/}
-      {/* Start consen case study Area */}
+      {/* Start Optime case study Area */}
       {/*==================================================*/}
       <div className="case-study-area style-three">
         <div className="container">

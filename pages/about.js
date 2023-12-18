@@ -61,7 +61,7 @@ const About = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-md-12">
-              <div className="consen-section-title">
+              <div className="Optime-section-title">
                 <h5> Features </h5>
                 <h2>
                   {" "}
@@ -205,15 +205,15 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* Start consen Testimonial Area */}
+      {/* Start Optime Testimonial Area */}
       {/*==================================================*/}
       <div className="testimonial-area">
         <div className="container">
           <div className="row testi-rotate align-items-center">
             <div className="col-lg-7 col-md-6">
-              <div className="consen-section-title white pb-50">
+              <div className="Optime-section-title white pb-50">
                 <h5> Testimonials </h5>
-                <h2> Consen Trusted Customers </h2>
+                <h2> Optime Trusted Customers </h2>
                 <h2>
                   {" "}
                   Awesome <span> Reviews </span>
@@ -457,7 +457,7 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Testimonial Area */}
+      {/* End Optime Testimonial Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/*  Start  Counter Section */}
@@ -525,13 +525,13 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* Start consen Team Area */}
+      {/* Start Optime Team Area */}
       {/*==================================================*/}
       <div className="team_area style-two">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
-              <div className="consen-section-title upper text-center pb-60">
+              <div className="Optime-section-title upper text-center pb-60">
                 <h5> Team Member </h5>
                 <h2>
                   {" "}
@@ -635,7 +635,7 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Team Area */}
+      {/* End Optime Team Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/* Start  FAQ Section */}
@@ -644,7 +644,7 @@ const About = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-md-12">
-              <div className="consen-section-title white pb-1 mb-1">
+              <div className="Optime-section-title white pb-1 mb-1">
                 <h5> process </h5>
                 <h2>
                   {" "}
@@ -707,7 +707,7 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* Start consen Subscribe Area */}
+      {/* Start Optime Subscribe Area */}
       {/*==================================================*/}
       <div className="subscribe-area style-two mt-5 mt-sm-0">
         <div className="container">
@@ -732,7 +732,7 @@ const About = () => {
         </div>
       </div>
       {/*==================================================*/}
-      {/* End consen Subscribe Area */}
+      {/* End Optime Subscribe Area */}
       {/*==================================================*/}
     </Layout>
   );
