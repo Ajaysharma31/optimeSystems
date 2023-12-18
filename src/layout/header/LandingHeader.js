@@ -139,7 +139,8 @@ const LandingHeader = () => {
                 <div className="content-inner">
                   <div className="nav-logo">
                     <a href="index.html">
-                      <img src="assets/images/logo.png" alt="logo" />
+                      {/* <img src="assets/images/logo.png" alt="logo" /> */}
+                      <h5 className="color-white">Optime Systems</h5>
                     </a>
                   </div>
                   <div className="content-box">

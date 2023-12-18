@@ -272,7 +272,8 @@ const ServiceDetails = () => {
                     <Link legacyBehavior href="/index">
                       <a>
                         {" "}
-                        <img src="assets/images/logo.png" alt />{" "}
+                        {/* <img src="assets/images/logo.png" alt /> */}
+                        <h5 className="color-white">Optime Systems</h5>{" "}
                       </a>
                     </Link>
                   </div>
