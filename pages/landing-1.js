@@ -179,7 +179,7 @@ const Landing1 = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
-              <div className="dreamit-about-thumb mr-lg-4">
+              <div className="jaytech-about-thumb mr-lg-4">
                 <img src="assets/images/about/about-2.png" alt />
                 {/* about-shape */}
                 <div className="about-shape-thumb1 bounce-animate2">
@@ -205,8 +205,8 @@ const Landing1 = () => {
                   functional.{" "}
                 </p>
               </div>
-              <div className="dreamit-icon-box">
-                <div className="dreamit-icon-list">
+              <div className="jaytech-icon-box">
+                <div className="jaytech-icon-list">
                   <ul>
                     <li>
                       <i className="bi bi-arrow-right-circle" />{" "}
@@ -272,7 +272,7 @@ const Landing1 = () => {
           </div>
           <div className="row">
             <div className="col-lg-3 col-sm-6 pl-1">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon1 upper">
                     <img src="assets/images/resource/service-icon8.png" alt />
@@ -300,7 +300,7 @@ const Landing1 = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 pl-1">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon1">
                     <img src="assets/images/resource/service-icon5.png" alt />
@@ -328,7 +328,7 @@ const Landing1 = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 pl-1">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon1">
                     <img src="assets/images/resource/service-icon6.png" alt />
@@ -356,7 +356,7 @@ const Landing1 = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 pl-1">
-              <div className="dreamit-service-box">
+              <div className="jaytech-service-box">
                 <div className="service-box-inner">
                   <div className="em-service-icon1">
                     <img src="assets/images/resource/service-icon7.png" alt />
@@ -427,7 +427,7 @@ const Landing1 = () => {
                   functional.{" "}
                 </p>
               </div>
-              <div className="dreamit-icon-list">
+              <div className="jaytech-icon-list">
                 <ul>
                   <li>
                     <i className="bi bi-arrow-right-circle" />{" "}
@@ -990,7 +990,7 @@ const Landing1 = () => {
                   <p> 24/7 anytime Open Our Services </p>
                 </div>
                 <div className="contact_from">
-                  <form onSubmit={(e) => e.preventDefault()} id="dreamit-form">
+                  <form onSubmit={(e) => e.preventDefault()} id="jaytech-form">
                     <div className="row">
                       <div className="col-lg-12">
                         <div className="form_box mb-20">

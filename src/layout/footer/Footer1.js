@@ -16,7 +16,7 @@ const Footer1 = () => {
                 onSubmit={(e) => e.preventDefault()}
                 action="https://formspree.io/f/myyleorq"
                 method="POST"
-                id="dreamit-form"
+                id="jaytech-form"
               >
                 <div className="subscribe_form">
                   <input
@@ -187,7 +187,8 @@ const Footer1 = () => {
               <div className="Optime-logo">
                 <Link legacyBehavior href="/">
                   <a className="logo_thumb" title="Optime">
-                    <img src="assets/images/logo.png" alt="logo" />
+                    {/* <img src="assets/images/logo.png" alt="logo" /> */}
+                    <h6 className="color-white">Optime Systems</h6>
                   </a>
                 </Link>
               </div>
@@ -197,7 +198,7 @@ const Footer1 = () => {
                 <div className="footer-bottom-content-copy">
                   <p>
                     © 2023 <span>Optime</span> all rights reserved. Design By
-                    Dream-IT.
+                    Jay-Tech.
                   </p>
                 </div>
               </div>

@@ -19,7 +19,7 @@ const Contact = () => {
                   onSubmit={(e) => e.preventDefault()}
                   action="#"
                   method="POST"
-                  id="dreamit-form"
+                  id="jaytech-form"
                 >
                   <div className="row">
                     <div className="col-lg-6">
