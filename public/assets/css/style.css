@@ -51,6 +51,16 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .bg-white{
   background-color: white;
 }
+.about-title{
+  text-align: center;
+  color: #ffff;
+}
+.text-white{
+  color:#ffff !important;
+}
+
+
+
 .font-35{
   font-size: 35px !important;
 }
@@ -4515,7 +4525,7 @@ p.slill-text {
 }
 
 .footer-bg {
-  padding: 85px 0 100px;
+  padding: 85px 0 140px;
   position: relative;
 }
 
