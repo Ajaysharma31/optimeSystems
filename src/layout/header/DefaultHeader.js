@@ -11,7 +11,7 @@ const DefaultHeader = () => {
               <Link legacyBehavior href="/">
                 <a className="logo_img" title="optime systems">
                   {/* <img src="assets/images/logo.png" alt="logo" /> */}
-                  <h4 className="color-blue">Optime Systems</h4>
+                  <h4 className="color-white">Optime Systems</h4>
                 </a>
               </Link>
               <Link legacyBehavior href="/">
