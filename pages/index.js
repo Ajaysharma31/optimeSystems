@@ -30,33 +30,12 @@ const Index = () => {
               <div className="lines pt-20 pb-40">
                 <div className="line" />
               </div>
-              <div className="banner-buttons">
-                <div className="slider-button">
-                  <Link legacyBehavior href="/service">
-                    <a>
-                      {" "}
-                      Work Together <i className="bi bi-plus" />{" "}
-                    </a>
-                  </Link>
-                </div>
-                <div className="slider-contact-box">
-                  <a className="contact-icon" href="tel:+983217690326">
-                    <img src="assets/images/slider/call.png" alt="call icon" />
-                  </a>
-                  <div className="contact-number">
-                    <span> Call Everyday </span>
-                    <h3>
-                      <a href="tel:+983217690326">+98 321 (7690) 326</a>{" "}
-                    </h3>
-                  </div>
-                </div>
-              </div>
             </div>
             <div className="col-lg-5 col-md-6 ">
               <div className="slider-thumb">
-                <img src="assets/images/slider/hero-img.png" alt />
+                {/* <img src="assets/images/slider/hero-img.png" alt /> */}
               </div>
-              <div className="video-icon">
+              {/* <div className="video-icon">
                 <a
                   className="video-vemo-icon venobox vbox-item"
                   data-vbtype="youtube"
@@ -65,7 +44,7 @@ const Index = () => {
                 >
                   <i className="fa fa-play" />
                 </a>
-              </div>
+              </div> */}
             </div>
             {/* slider shape */}
             <div className="slider-shape">
@@ -238,183 +217,14 @@ const Index = () => {
       {/*==================================================*/}
       {/* End Optime about Area */}
       {/*==================================================*/}
-      <div className="about-area">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-6 col-md-12">
-              <div className="jaytech-about-thumb">
-                <img src="assets/images/about/about.png" alt />
-                {/* about-shape */}
-                <div className="about-shape-thumb1 bounce-animate2">
-                  <img src="assets/images/about/about-shape2.png" alt />
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-6 col-md-12 ">
-              <div className="Optime-section-title white pb-10">
-                <h2> The Fatest Way To Achieve</h2>
-                <h2>
-                  {" "}
-                  Your Business <span> Success </span>
-                </h2>
-                <p>
-                  Continually generate 2.0 communities and client-focused
-                  products. In synergize strategic manufactured products whereas
-                  levera.
-                </p>
-              </div>
-              <div className="lines style-two pb-15">
-                <div className="line" />
-              </div>
-              <div className="jaytech-icon-title">
-                <h4>
-                  {" "}
-                  We are Since <span>2007 to Present</span> in Sandigo, USA{" "}
-                </h4>
-              </div>
-              <div className="jaytech-icon-list">
-                <ul>
-                  <li>
-                    <i className="flaticon-tick" />{" "}
-                    <span> Credibly reinvent sticky partnerships done </span>
-                  </li>
-                  <li>
-                    <i className="flaticon-tick" />{" "}
-                    <span>
-                      {" "}
-                      Distinctively evisculate data superior content.
-                    </span>
-                  </li>
-                  <li>
-                    <i className="flaticon-tick" />{" "}
-                    <span> Monotonectally foster open source </span>
-                  </li>
-                </ul>
-              </div>
-              <div className="about-button">
-                <Link legacyBehavior href="/about">
-                  <a>
-                    {" "}
-                    Learn More <i className="bi bi-plus" />{" "}
-                  </a>
-                </Link>
-              </div>
-            </div>
-            {/* about thumb */}
-            <div className="about-shape-thumb2 bounce-animate4">
-              <img src="assets/images/resource/all-shape.png" alt />
-            </div>
-          </div>
-          <div className="row counter-vip">
-            <div className="col-lg-12">
-              <div className="couter-top-title">
-                <h3> Optime Finished this Achivement in 7 Years </h3>
-              </div>
-            </div>
-            <div className="col-md-3 col-6">
-              <div className="counter-single-box">
-                <div className="counter-title">
-                  <h4>
-                    <Counter end={1372} />
-                  </h4>
-                  <p>Project Complete</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-3 col-6">
-              <div className="counter-single-box">
-                <div className="counter-title">
-                  <h4>
-                    <Counter end={23} />
-                  </h4>
-                  <span>+</span>
-                  <p>Years Experience</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-3 col-6">
-              <div className="counter-single-box">
-                <div className="counter-title">
-                  <h4>
-                    <Counter end={38} />
-                  </h4>
-                  <span>+</span>
-                  <p>Exper Member</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-3 col-6">
-              <div className="counter-single-box">
-                <div className="counter-title">
-                  <h4>
-                    <Counter end={1372} />
-                  </h4>
-                  <span>+</span>
-                  <p>Satisfactions Rate</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+
       {/*==================================================*/}
       {/* End Optime about Area */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/* End Optime about Area */}
       {/*==================================================*/}
-      <div className="ceo-cod-area">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-6 col-md-12 ">
-              <div className="Optime-section-title">
-                <h2> What Say Our CEO, About</h2>
-                <h2>
-                  {" "}
-                  Optime <span> Customers </span>
-                </h2>
-                <div className="lines style-three pt-20 pb-10">
-                  <div className="line" />
-                </div>
-                <p className="about-text">
-                  {" "}
-                  “We help Our Clients to Renew Their Business Function to
-                  Create Brandable Organizations”{" "}
-                </p>
-                <p className="about-text2">
-                  Appropriately enhance principle-centered innovation rather
-                  than high standards in platforms. Credibly orchestrate
-                  functional markets through multidisciplinary services.
-                  Uniquely strategize transparent technology and user friendly
-                  ideas markets.{" "}
-                </p>
-              </div>
-              <div className="jaytech-ceo-title">
-                <h4> Philip Antrophy </h4>
-                <span>SEO &amp; Founder</span>
-              </div>
-              <div className="about-button">
-                <Link legacyBehavior href="/testimonial">
-                  <a>
-                    {" "}
-                    Clients Review <i className="bi bi-plus" />{" "}
-                  </a>
-                </Link>
-              </div>
-            </div>
-            <div className="col-lg-6 col-md-12">
-              <div className="jaytech-about-thumb1">
-                <img src="assets/images/about/about2.png" alt />
-              </div>
-              <div className="about-shape-box">
-                <div className="about-shape-thumb bounce-animate">
-                  <img src="assets/images/about/ab-shape.png" alt />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+
       {/*==================================================*/}
       {/* End Optime about Area */}
       {/*==================================================*/}
@@ -424,23 +234,18 @@ const Index = () => {
       <div className="case-study-area">
         <div className="container">
           <div className="row case-study-bg align-items-center mb-40">
-            <div className="col-lg-6 col-md-8">
+            <div className="col-lg-10">
               <div className="Optime-section-title mobile-center white ">
-                <h2> We Serve the Best Works</h2>
-                <h2>
-                  {" "}
-                  View <span> Case Studies </span>
-                </h2>
-              </div>
-            </div>
-            <div className="col-lg-6 col-md-4">
-              <div className="Optime-button text-right">
-                <Link legacyBehavior href="/portfolio">
-                  <a>
-                    {" "}
-                    All Project <i className="bi bi-plus" />{" "}
-                  </a>
-                </Link>
+                <h2> About </h2>
+                <p className="text-white">
+                  Technology shifts and improves every industry. Projects ebb
+                  and flow. Companies want shiny new apps. IT talent must be
+                  smart, agile, and ready to work when the moment strikes.
+                  That’s why Optime Systems lives and breathes information
+                  technology and moves at the pace of our clients. For more than
+                  30 years, we’ve been matching the best and brightest IT talent
+                  with Fortune 100 and 500 companies, SMBs, and startups.
+                </p>
               </div>
             </div>
             <div className="case-study-shape">
@@ -451,255 +256,6 @@ const Index = () => {
                 <img src="assets/images/resource/all-shape.png" alt />
               </div>
             </div>
-          </div>
-          <div className="row">
-            <Swiper {...caseStudyProps} className="case-study owl-carousel">
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case2.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Consulting for Business Organizations</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case3.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Strategy and Planning Building Idea</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case1.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Corporate Finance for helpfulness Markets</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case2.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Consulting for Business Organizations</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case3.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Strategy and Planning Building Idea</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case2.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a> Consulting for Business Organizations</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="case-study-single-box">
-                  <div className="case-study-thumb">
-                    <img src="assets/images/project/case3.png" alt />
-                    <div className="case-study-content">
-                      <div className="case-study-title">
-                        <h6> Consulting </h6>
-                        <h3>
-                          {" "}
-                          <Link legacyBehavior href="/portfolio-details">
-                            <a>Strategy and Planning Building Idea</a>
-                          </Link>
-                        </h3>
-                      </div>
-                      <div className="case-button">
-                        <Link legacyBehavior href="/portfolio-details">
-                          <a>
-                            Read More <i className="bi bi-plus" />{" "}
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                    <div className="video-icon style-two">
-                      <a
-                        className="video-vemo-icon venobox vbox-item"
-                        data-vbtype="youtube"
-                        data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
-                      >
-                        <i className="fa fa-play" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-            </Swiper>
           </div>
         </div>
       </div>
@@ -723,7 +279,7 @@ const Index = () => {
                       <h3>
                         Idea <span> Generate </span>
                       </h3>
-                      <p>Appropriately enhance data centered innovation</p>
+                      <p>Innovative Strategies for Continuous Growth</p>
                     </div>
                   </div>
                 </div>
@@ -737,7 +293,7 @@ const Index = () => {
                         {" "}
                         System <span> Design </span>
                       </h3>
-                      <p>Appropriately enhance data centered innovation</p>
+                      <p>Robust Architecture for Seamless Operations</p>
                     </div>
                   </div>
                 </div>
@@ -749,9 +305,9 @@ const Index = () => {
                     <div className="process-title">
                       <h3>
                         {" "}
-                        24/7 <span> Support </span>
+                        Continuous <span> Assistance </span>
                       </h3>
-                      <p>Appropriately enhance data centered innovation</p>
+                      <p>Reliable assistance available around the clock</p>
                     </div>
                   </div>
                 </div>
@@ -765,7 +321,7 @@ const Index = () => {
                         {" "}
                         Sales <span> Generate </span>
                       </h3>
-                      <p>Appropriately enhance data centered innovation</p>
+                      <p>Efficiently boosts sales through continuous support</p>
                     </div>
                   </div>
                 </div>
@@ -781,11 +337,7 @@ const Index = () => {
             </div>
             <div className="col-lg-6 col-md-12 pl-lg-50">
               <div className="Optime-section-title mt-4 mt-lg-0">
-                <h2> The Fatest Way To Achieve </h2>
-                <h2>
-                  {" "}
-                  Technology <span> Consulting </span>
-                </h2>
+                <h2> CLIENTS </h2>
               </div>
               <div className="lines style-three pt-30 pb-10">
                 <div className="line" />
@@ -796,90 +348,16 @@ const Index = () => {
                   For Choose <span>Optime</span> Before know who we are?{" "}
                 </h4>
                 <p>
-                  Monotonectally brand worldwide value before in seamless
-                  process data Collaboratively initiate strategic expertise
-                  after functionalized models in. Synergistically synthesize
-                  front-end convergence whereas resource tosynergy.
-                  Collaboratively the expedite focused architectures rather than
-                  resources. Enthusiastically extensive.
+                  From Fortune 500, SMBs, and startups, Optime Systems delivers
+                  the talent to meet your hiring needs for contract staffing,
+                  team augmentation, direct hire, or managed services. We listen
+                  and carefully choose our consultants for placement across
+                  diverse industries,from retail, technology, healthcare and
+                  biotech, to financial and insurance, transportation, and
+                  telecom.
                 </p>
               </div>
-              <div className="about-button">
-                <Link legacyBehavior href="/about">
-                  <a>
-                    {" "}
-                    More About <i className="bi bi-plus" />{" "}
-                  </a>
-                </Link>
-              </div>
             </div>
-          </div>
-          <div className="row pt-50">
-            <div className="col-lg-12">
-              <div className="jaytechs-top-title">
-                <h3> More Then 5K+ Brands with work US</h3>
-              </div>
-            </div>
-          </div>
-          <div className="row pt-30">
-            <Swiper {...brandListProps} className="brand-list owl-carousel">
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/allian.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/figma.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/google.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/redit.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/allian.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/figma.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/google.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide>
-                <div className="brand-single-box">
-                  <div className="brand-thumb">
-                    <img src="assets/images/resource/redit.png" alt />
-                  </div>
-                </div>
-              </SwiperSlide>
-            </Swiper>
           </div>
         </div>
       </div>
@@ -889,204 +367,14 @@ const Index = () => {
       {/*==================================================*/}
       {/* Start Optime Skills Area Css */}
       {/*==================================================*/}
-      <div className="skill-area">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-md-6">
-              <div className="extra-animation-div">
-                <div className="Optime-section-title white">
-                  <h2> Join the Community to learn </h2>
-                  <h2>
-                    {" "}
-                    About our <span>Company</span>
-                  </h2>
-                </div>
-                <div className="lines style-three upper pt-30 pb-10">
-                  <div className="line" />
-                </div>
-                <div className="jaytech-smart-title">
-                  <p className="slill-text">
-                    Continually generate 2.0 communities and client-focused
-                    products. In synergize strategic manufactured products
-                    whereas levera.
-                  </p>
-                </div>
-              </div>
-              <ProssessBar />
-            </div>
-            <div className="col-md-6">
-              <div className="slill-single-thumb mt-4 mt-lg-0 pl-50 ml-1">
-                <img src="assets/images/resource/skill.png" alt />
-                {/* thumb content */}
-                <div className="skill-thumb-content">
-                  <div className="skill-title">
-                    <h3 className="counter"> 17 </h3>
-                    <span>+</span>
-                    <h5> YEARS EXPERIENCE </h5>
-                  </div>
-                </div>
-                {/* skill shape */}
-                <div className="skill-shape dance">
-                  <img src="assets/images/resource/skill-shape.png" alt />
-                </div>
-                <div className="skill-shape1 bounce-animate2">
-                  <img src="assets/images/resource/all-shape.png" alt />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+
       {/*==================================================*/}
       {/* End Optime Skill Area Css */}
       {/*==================================================*/}
       {/*==================================================*/}
       {/* Start Optime Blog Area */}
       {/*==================================================*/}
-      <div className="blog-area blog-new">
-        <div className="container">
-          <div className="row align-items-center mb-40">
-            <div className="col-lg-7 col-md-8">
-              <div className="Optime-section-title mobile-center">
-                <h2> We’re here to share story </h2>
-                <h2>
-                  {" "}
-                  from Latest <span> News </span>
-                </h2>
-              </div>
-            </div>
-            <div className="col-lg-5 col-md-4">
-              <div className="Optime-button text-right">
-                <Link legacyBehavior href="/blog-grid">
-                  <a>
-                    {" "}
-                    View all Blog <i className="bi bi-plus" />{" "}
-                  </a>
-                </Link>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-box">
-                <div className="single-blog-thumb">
-                  <img src="assets/images/resource/blog1.png" alt />
-                  <div className="blog-top-button">
-                    <a href="#"> GRAPHIC </a>
-                  </div>
-                </div>
-                <div className="em-blog-content">
-                  <div className="meta-blog-text">
-                    <p> August 25, 2023 </p>
-                  </div>
-                  <div className="em-blog-title">
-                    <h2>
-                      {" "}
-                      <Link legacyBehavior href="/blog-details">
-                        <a> Popular Consultants are big Meetup 2023 </a>
-                      </Link>{" "}
-                    </h2>
-                  </div>
-                  <div className="em-blog-icon">
-                    <div className="em-blog-thumb">
-                      <img src="assets/images/resource/blog-icon.png" alt />
-                    </div>
-                    <div className="em-blog-icon-title">
-                      <h6> Alex Collins </h6>
-                    </div>
-                  </div>
-                  <div className="blog-button">
-                    <Link legacyBehavior href="/blog-details">
-                      <a>
-                        {" "}
-                        Learn More <i className="bi bi-plus" />{" "}
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-box">
-                <div className="single-blog-thumb">
-                  <img src="assets/images/resource/blog2.png" alt />
-                  <div className="blog-top-button">
-                    <a href="#"> DEVELOPMENT </a>
-                  </div>
-                </div>
-                <div className="em-blog-content">
-                  <div className="meta-blog-text">
-                    <p> August 21, 2023 </p>
-                  </div>
-                  <div className="em-blog-title">
-                    <h2>
-                      {" "}
-                      <Link legacyBehavior href="/blog-details">
-                        <a> How to Increase Business Products Sales </a>
-                      </Link>{" "}
-                    </h2>
-                  </div>
-                  <div className="em-blog-icon">
-                    <div className="em-blog-thumb">
-                      <img src="assets/images/resource/blog-icon.png" alt />
-                    </div>
-                    <div className="em-blog-icon-title">
-                      <h6> Julia Moris </h6>
-                    </div>
-                  </div>
-                  <div className="blog-button">
-                    <Link legacyBehavior href="/blog-details">
-                      <a>
-                        {" "}
-                        Learn More <i className="bi bi-plus" />{" "}
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-box">
-                <div className="single-blog-thumb">
-                  <img src="assets/images/resource/blog3.png" alt />
-                  <div className="blog-top-button">
-                    <a href="#"> DESIGN </a>
-                  </div>
-                </div>
-                <div className="em-blog-content">
-                  <div className="meta-blog-text">
-                    <p> August 20, 2023 </p>
-                  </div>
-                  <div className="em-blog-title">
-                    <h2>
-                      {" "}
-                      <Link legacyBehavior href="/blog-details">
-                        <a> Top 10 Most Populars Google Chrome app</a>
-                      </Link>
-                    </h2>
-                  </div>
-                  <div className="em-blog-icon">
-                    <div className="em-blog-thumb">
-                      <img src="assets/images/resource/blog-icon.png" alt />
-                    </div>
-                    <div className="em-blog-icon-title">
-                      <h6> Amantha </h6>
-                    </div>
-                  </div>
-                  <div className="blog-button">
-                    <Link legacyBehavior href="/blog-details">
-                      <a>
-                        {" "}
-                        Learn More <i className="bi bi-plus" />{" "}
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+
     </Layout>
   );
 };

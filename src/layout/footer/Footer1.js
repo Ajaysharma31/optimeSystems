@@ -4,7 +4,7 @@ const Footer1 = () => {
   return (
     <div className="footer-middle">
       <div className="container">
-        <div className="subscribe-area">
+        {/* <div className="subscribe-area">
           <div className="row ">
             <div className="col-lg-6 col-md-6">
               <div className="subscribe-title">
@@ -45,7 +45,7 @@ const Footer1 = () => {
               <img src="assets/images/resource/big-dot.png" alt="" />
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="footer-bg">
           <div className="row">
             <div className="col-lg-4 col-sm-6">
@@ -95,9 +95,6 @@ const Footer1 = () => {
                     <li>
                       <a href="#"> Service </a>
                     </li>
-                    <li>
-                      <a href="#"> Our Team </a>
-                    </li>
                   </ul>
                 </div>
               </div>
@@ -108,64 +105,45 @@ const Footer1 = () => {
                 <div className="menu-quick-link-content">
                   <ul className="footer-menu">
                     <li>
-                      <a href="#"> Strategy &amp; Planing </a>
+                      <a href="javascript:void(0)"> Permanent Recruitment </a>
                     </li>
                     <li>
-                      <a href="#"> Consumer Market </a>
+                      <a href="javascript:void(0)"> General Staffing </a>
                     </li>
                     <li>
-                      <a href="#"> Data Analysis </a>
+                      <a href="javascript:void(0)"> Specialty Staffing </a>
                     </li>
                     <li>
-                      <a href="#"> Corporate Finance </a>
-                    </li>
-                    <li>
-                      <a href="#"> Market Research </a>
+                      <a href="javascript:void(0)"> Talent Acquisition </a>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div id="em-recent-post-widget" className="mt-5 mt-sm-0">
-                <div className="single-widget-item">
-                  <h4 className="widget-title">Popular Posts</h4>
-                  <div className="recent-post-item active">
-                    <div className="recent-post-image">
-                      <a href="#">
-                        <img
-                          width={80}
-                          height={80}
-                          src="assets/images/resource/footer1.png"
-                          alt=""
-                        />
+              <div className="widget widget-nav-menu">
+                <h4 className="widget-title"> Our Solutions </h4>
+                <div className="menu-quick-link-content">
+                  <ul className="footer-menu">
+                    <li>
+                      <a href="javascript:void(0)">
+                        {" "}
+                        Recruitment Process Outsourcing{" "}
                       </a>
-                    </div>
-                    <div className="recent-post-text">
-                      <h6>
-                        <a href="#">How To Plugin Install WP server?</a>
-                      </h6>
-                      <span className="rcomment">Dec 12, 2023</span>
-                    </div>
-                  </div>
-                  <div className="recent-post-item">
-                    <div className="recent-post-image">
-                      <a href="#">
-                        <img
-                          width={80}
-                          height={80}
-                          src="assets/images/resource/footer2.png"
-                          alt=""
-                        />
+                    </li>
+                    <li>
+                      <a href="javascript:void(0)"> Executive Search </a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0)"> Manpower Consultancy </a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0)">
+                        {" "}
+                        Payroll Transfer Services{" "}
                       </a>
-                    </div>
-                    <div className="recent-post-text">
-                      <h6>
-                        <a href="#">Top 10 Most Usefull Google Extansion</a>
-                      </h6>
-                      <span className="rcomment">Dec 15, 2023</span>
-                    </div>
-                  </div>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
